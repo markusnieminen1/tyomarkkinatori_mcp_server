@@ -1,0 +1,11 @@
+[project]
+name = "tyomarkkinatori-mcp-server"
+version = "0.1.0"
+description = "Gives tools for your AI agent to find job listings for you based on a criteria (Only Finland). It uses työmarkkinatori API for the results."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.21.1",
+    "pytest>=9.0.1",
+]

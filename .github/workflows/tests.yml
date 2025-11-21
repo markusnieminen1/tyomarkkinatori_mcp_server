@@ -1,0 +1,36 @@
+name: Run general tests
+
+on:
+  push:
+    branches-ignore:
+      - main # Main has it's own workflow
+    paths:
+      - '*/**' # Ignore all root files
+
+  pull_request:
+    paths: # Still run when PR to main
+      - '*/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Install uv
+        run: |
+          python -m pip install --upgrade pip
+          pip install uv pytest
+
+      - name: Sync dependencies
+        run: |
+          uv venv
+          uv sync --locked
+
+      - name: Run tests
+        run: .venv/bin/python -m pytest tests

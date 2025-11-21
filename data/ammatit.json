@@ -1,0 +1,2478 @@
+[
+    {
+        "code": "0",
+        "preferredLabel": "Sotilaat"
+    },
+    {
+        "code": "1",
+        "preferredLabel": "Upseerit"
+    },
+    {
+        "code": "11",
+        "preferredLabel": "Upseerit"
+    },
+    {
+        "code": "110",
+        "preferredLabel": "Upseerit"
+    },
+    {
+        "code": "2",
+        "preferredLabel": "Aliupseerit"
+    },
+    {
+        "code": "21",
+        "preferredLabel": "Aliupseerit"
+    },
+    {
+        "code": "210",
+        "preferredLabel": "Aliupseerit"
+    },
+    {
+        "code": "3",
+        "preferredLabel": "Sotilasammattihenkilöstö"
+    },
+    {
+        "code": "31",
+        "preferredLabel": "Sotilasammattihenkilöstö"
+    },
+    {
+        "code": "310",
+        "preferredLabel": "Sotilasammattihenkilöstö"
+    },
+    {
+        "code": "1",
+        "preferredLabel": "Johtajat"
+    },
+    {
+        "code": "11",
+        "preferredLabel": "Johtajat, ylimmät virkamiehet ja järjestöjen johtajat"
+    },
+    {
+        "code": "111",
+        "preferredLabel": "Ylimmät virkamiehet ja järjestöjen johtajat"
+    },
+    {
+        "code": "1111",
+        "preferredLabel": "Lainsäätäjät"
+    },
+    {
+        "code": "1112",
+        "preferredLabel": "Julkishallinnon ylimmät virkamiehet"
+    },
+    {
+        "code": "1113",
+        "preferredLabel": "Heimo- ja kyläpäälliköt"
+    },
+    {
+        "code": "1114",
+        "preferredLabel": "Järjestöjen johtajat"
+    },
+    {
+        "code": "112",
+        "preferredLabel": "Toimitusjohtajat ja pääjohtajat"
+    },
+    {
+        "code": "1120",
+        "preferredLabel": "Toimitusjohtajat ja pääjohtajat"
+    },
+    {
+        "code": "12",
+        "preferredLabel": "Hallintojohtajat ja kaupalliset johtajat"
+    },
+    {
+        "code": "121",
+        "preferredLabel": "Liiketoiminta- ja hallintojohtajat"
+    },
+    {
+        "code": "1211",
+        "preferredLabel": "Talousjohtajat"
+    },
+    {
+        "code": "1212",
+        "preferredLabel": "Henkilöstöjohtajat"
+    },
+    {
+        "code": "1213",
+        "preferredLabel": "Politiikka- ja suunnittelujohtajat"
+    },
+    {
+        "code": "1219",
+        "preferredLabel": "Muut hallintojohtajat ja kaupalliset johtajat"
+    },
+    {
+        "code": "122",
+        "preferredLabel": "Myynti-, markkinointi- ja kehitysjohtajat"
+    },
+    {
+        "code": "1221",
+        "preferredLabel": "Myynti- ja markkinointijohtajat"
+    },
+    {
+        "code": "1222",
+        "preferredLabel": "Mainos- ja tiedotusjohtajat"
+    },
+    {
+        "code": "1223",
+        "preferredLabel": "Tutkimus- ja kehitysjohtajat"
+    },
+    {
+        "code": "13",
+        "preferredLabel": "Tuotantotoiminnan ja yhteiskunnan peruspalvelujen asiantuntijajohtajat"
+    },
+    {
+        "code": "131",
+        "preferredLabel": "Maa-, metsä- ja kalatalouden johtajat"
+    },
+    {
+        "code": "1311",
+        "preferredLabel": "Maa- ja metsätalouden johtajat"
+    },
+    {
+        "code": "1312",
+        "preferredLabel": "Vesiviljely- ja kalatalouden johtajat"
+    },
+    {
+        "code": "132",
+        "preferredLabel": "Teollisuuden tuotantojohtajat sekä kaivos-, rakennus- ja jakelujohtajat"
+    },
+    {
+        "code": "1321",
+        "preferredLabel": "Teollisuuden tuotantojohtajat"
+    },
+    {
+        "code": "1322",
+        "preferredLabel": "Kaivostoiminnan tuotantojohtajat"
+    },
+    {
+        "code": "1323",
+        "preferredLabel": "Rakennustoiminnan tuotantojohtajat"
+    },
+    {
+        "code": "1324",
+        "preferredLabel": "Hankinta- ja jakelujohtajat ym."
+    },
+    {
+        "code": "133",
+        "preferredLabel": "Tieto- ja viestintäteknologiajohtajat"
+    },
+    {
+        "code": "1330",
+        "preferredLabel": "Tieto- ja viestintäteknologiajohtajat"
+    },
+    {
+        "code": "134",
+        "preferredLabel": "Yhteiskunnan peruspalvelujen sekä rahoitus- ja vakuutuspalvelujen johtajat"
+    },
+    {
+        "code": "1341",
+        "preferredLabel": "Lastenhoidon johtajat"
+    },
+    {
+        "code": "1342",
+        "preferredLabel": "Terveydenhuollon johtajat"
+    },
+    {
+        "code": "1343",
+        "preferredLabel": "Vanhustenhuollon johtajat"
+    },
+    {
+        "code": "1344",
+        "preferredLabel": "Sosiaalihuollon johtajat"
+    },
+    {
+        "code": "1345",
+        "preferredLabel": "Opetusalan johtajat"
+    },
+    {
+        "code": "1346",
+        "preferredLabel": "Rahoitus- ja vakuutuspalvelujen johtajat"
+    },
+    {
+        "code": "1349",
+        "preferredLabel": "Muut yhteiskunnan palvelujen johtajat"
+    },
+    {
+        "code": "14",
+        "preferredLabel": "Hotelli- ja ravintola-alan, vähittäiskaupan ja muiden palvelualojen johtajat"
+    },
+    {
+        "code": "141",
+        "preferredLabel": "Hotellin- ja ravintolanjohtajat"
+    },
+    {
+        "code": "1411",
+        "preferredLabel": "Hotellinjohtajat"
+    },
+    {
+        "code": "1412",
+        "preferredLabel": "Ravintolanjohtajat"
+    },
+    {
+        "code": "142",
+        "preferredLabel": "Vähittäis- ja tukkukaupan johtajat"
+    },
+    {
+        "code": "1420",
+        "preferredLabel": "Vähittäis- ja tukkukaupan johtajat"
+    },
+    {
+        "code": "143",
+        "preferredLabel": "Muiden palvelualojen johtajat"
+    },
+    {
+        "code": "1431",
+        "preferredLabel": "Urheilu-, vapaa-aika- ja kulttuurikeskusten johtajat"
+    },
+    {
+        "code": "1439",
+        "preferredLabel": "Muut palvelualojen johtajat"
+    },
+    {
+        "code": "2",
+        "preferredLabel": "Erityisasiantuntijat"
+    },
+    {
+        "code": "21",
+        "preferredLabel": "Luonnontieteiden ja tekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "211",
+        "preferredLabel": "Luonnon- ja geotieteen erityisasiantuntijat"
+    },
+    {
+        "code": "2111",
+        "preferredLabel": "Fyysikot ja astronomit"
+    },
+    {
+        "code": "2112",
+        "preferredLabel": "Meteorologit"
+    },
+    {
+        "code": "2113",
+        "preferredLabel": "Kemistit"
+    },
+    {
+        "code": "2114",
+        "preferredLabel": "Geologit ja geofyysikot"
+    },
+    {
+        "code": "212",
+        "preferredLabel": "ICT-alan erityisasiantuntijat"
+    },
+    {
+        "code": "2120",
+        "preferredLabel": "Matemaatikot, aktuaarit ja tilastotieteilijät"
+    },
+    {
+        "code": "213",
+        "preferredLabel": "Biotieteiden erityisasiantuntijat"
+    },
+    {
+        "code": "2131",
+        "preferredLabel": "Biologit, kasvi- ja eläintieteilijät ym. erityisasiantuntijat"
+    },
+    {
+        "code": "2132",
+        "preferredLabel": "Maa-, metsä- ja kalatalouden erityisasiantuntijat"
+    },
+    {
+        "code": "2133",
+        "preferredLabel": "Ympäristön- ja luonnonsuojelun erityisasiantuntijat"
+    },
+    {
+        "code": "214",
+        "preferredLabel": "Tekniikan erityisasiantuntijat (pl. sähköteknologia)"
+    },
+    {
+        "code": "2141",
+        "preferredLabel": "Teollisen valmistuksen ja tuotantotekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2142",
+        "preferredLabel": "Maa- ja vesirakentamisen erityisasiantuntijat"
+    },
+    {
+        "code": "2143",
+        "preferredLabel": "Ympäristötekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2144",
+        "preferredLabel": "Konetekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2145",
+        "preferredLabel": "Puunjalostuksen ja kemian prosessitekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2146",
+        "preferredLabel": "Kaivosteollisuuden, metallurgian ym. erityisasiantuntijat"
+    },
+    {
+        "code": "2149",
+        "preferredLabel": "Muut tekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "215",
+        "preferredLabel": "Sähköteknologian erityisasiantuntijat"
+    },
+    {
+        "code": "2151",
+        "preferredLabel": "Sähkötekniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2152",
+        "preferredLabel": "Elektroniikan erityisasiantuntijat"
+    },
+    {
+        "code": "2153",
+        "preferredLabel": "Tietoliikenneteknologian erityisasiantuntijat"
+    },
+    {
+        "code": "216",
+        "preferredLabel": "Arkkitehdit, suunnittelijat ja maanmittaajat"
+    },
+    {
+        "code": "2161",
+        "preferredLabel": "Talonrakennuksen arkkitehdit"
+    },
+    {
+        "code": "2162",
+        "preferredLabel": "Maisema-arkkitehdit"
+    },
+    {
+        "code": "2163",
+        "preferredLabel": "Tuote- ja vaatesuunnittelijat"
+    },
+    {
+        "code": "2164",
+        "preferredLabel": "Yhdyskunta- ja liikennesuunnittelijat"
+    },
+    {
+        "code": "2165",
+        "preferredLabel": "Kartoituksen ja maanmittauksen erityisasiantuntijat"
+    },
+    {
+        "code": "2166",
+        "preferredLabel": "Graafiset ja multimediasuunnittelijat"
+    },
+    {
+        "code": "22",
+        "preferredLabel": "Terveydenhuollon erityisasiantuntijat"
+    },
+    {
+        "code": "221",
+        "preferredLabel": "Lääkärit"
+    },
+    {
+        "code": "2211",
+        "preferredLabel": "Yleislääkärit"
+    },
+    {
+        "code": "2212",
+        "preferredLabel": "Ylilääkärit ja erikoislääkärit"
+    },
+    {
+        "code": "222",
+        "preferredLabel": "Hoitotyön erityisasiantuntijat"
+    },
+    {
+        "code": "2221",
+        "preferredLabel": "Ylihoitajat ja osastonhoitajat"
+    },
+    {
+        "code": "2222",
+        "preferredLabel": "Johtavat kätilöt"
+    },
+    {
+        "code": "223",
+        "preferredLabel": "Perinteisen ja vaihtoehtohoidon erityisasiantuntijat"
+    },
+    {
+        "code": "2230",
+        "preferredLabel": "Perinteisen ja vaihtoehtohoidon erityisasiantuntijat"
+    },
+    {
+        "code": "224",
+        "preferredLabel": "Muiden terveyspalvelujen tuottajat"
+    },
+    {
+        "code": "2240",
+        "preferredLabel": "Muiden terveyspalvelujen tuottajat"
+    },
+    {
+        "code": "225",
+        "preferredLabel": "Eläinlääkärit"
+    },
+    {
+        "code": "2250",
+        "preferredLabel": "Eläinlääkärit"
+    },
+    {
+        "code": "226",
+        "preferredLabel": "Muut terveydenhuollon erityisasiantuntijat"
+    },
+    {
+        "code": "2261",
+        "preferredLabel": "Hammaslääkärit"
+    },
+    {
+        "code": "2262",
+        "preferredLabel": "Proviisorit"
+    },
+    {
+        "code": "2263",
+        "preferredLabel": "Ympäristöterveyden ja työsuojelun erityisasiantuntijat"
+    },
+    {
+        "code": "2264",
+        "preferredLabel": "Fysioterapian erityisasiantuntijat"
+    },
+    {
+        "code": "2265",
+        "preferredLabel": "Ravitsemusalan erityisasiantuntijat"
+    },
+    {
+        "code": "2266",
+        "preferredLabel": "Kuulontutkijat ja puheterapeutit"
+    },
+    {
+        "code": "2267",
+        "preferredLabel": "Optometrian erityisasiantuntijat"
+    },
+    {
+        "code": "2269",
+        "preferredLabel": "Muut terveydenhuollon erityisasiantuntijat"
+    },
+    {
+        "code": "23",
+        "preferredLabel": "Opettajat ja muut opetusalan erityisasiantuntijat"
+    },
+    {
+        "code": "231",
+        "preferredLabel": "Yliopisto- ja korkeakouluopettajat"
+    },
+    {
+        "code": "2310",
+        "preferredLabel": "Yliopistojen ja ammattikorkeakoulujen opettajat"
+    },
+    {
+        "code": "232",
+        "preferredLabel": "Ammatillisen koulutuksen opettajat"
+    },
+    {
+        "code": "2320",
+        "preferredLabel": "Ammatillisen koulutuksen opettajat"
+    },
+    {
+        "code": "233",
+        "preferredLabel": "Lukion ja peruskoulun yläluokkien opettajat"
+    },
+    {
+        "code": "2330",
+        "preferredLabel": "Lukion ja peruskoulun yläluokkien opettajat"
+    },
+    {
+        "code": "234",
+        "preferredLabel": "Peruskoulun alaluokkien opettajat ja lastentarhanopettajat"
+    },
+    {
+        "code": "2341",
+        "preferredLabel": "Peruskoulun alaluokkien opettajat"
+    },
+    {
+        "code": "2342",
+        "preferredLabel": "Lastentarhanopettajat"
+    },
+    {
+        "code": "235",
+        "preferredLabel": "Muut opetusalan erityisasiantuntijat"
+    },
+    {
+        "code": "2351",
+        "preferredLabel": "Opetusmenetelmien erityisasiantuntijat"
+    },
+    {
+        "code": "2352",
+        "preferredLabel": "Erityisopettajat"
+    },
+    {
+        "code": "2353",
+        "preferredLabel": "Muut kieltenopettajat"
+    },
+    {
+        "code": "2354",
+        "preferredLabel": "Muut musiikin opettajat"
+    },
+    {
+        "code": "2355",
+        "preferredLabel": "Muut taideaineiden opettajat"
+    },
+    {
+        "code": "2356",
+        "preferredLabel": "Muut tietotekniikan opettajat ja kouluttajat"
+    },
+    {
+        "code": "2359",
+        "preferredLabel": "Opinto-ohjaajat ja muut opetuksen erityisasiantuntijat"
+    },
+    {
+        "code": "24",
+        "preferredLabel": "Liike-elämän ja hallinnon erityisasiantuntijat"
+    },
+    {
+        "code": "241",
+        "preferredLabel": "Rahoitusalan erityisasiantuntijat"
+    },
+    {
+        "code": "2411",
+        "preferredLabel": "Laskentatoimen erityisasiantuntijat ja tilintarkastajat"
+    },
+    {
+        "code": "2412",
+        "preferredLabel": "Rahoitus- ja sijoitusneuvojat"
+    },
+    {
+        "code": "2413",
+        "preferredLabel": "Rahoitusanalyytikot"
+    },
+    {
+        "code": "242",
+        "preferredLabel": "Hallinnon erityisasiantuntijat"
+    },
+    {
+        "code": "2421",
+        "preferredLabel": "Johtamisen ja organisaatioiden erityisasiantuntijat"
+    },
+    {
+        "code": "2422",
+        "preferredLabel": "Hallinnon ja elinkeinojen kehittämisen erityisasiantuntijat"
+    },
+    {
+        "code": "2423",
+        "preferredLabel": "Henkilöstöhallinnon erityisasiantuntijat ja urasuunnittelijat"
+    },
+    {
+        "code": "2424",
+        "preferredLabel": "Henkilöstön kehittämisen erityisasiantuntijat ja kouluttajat"
+    },
+    {
+        "code": "243",
+        "preferredLabel": "Myynnin, markkinoinnin ja tiedotuksen erityisasiantuntijat"
+    },
+    {
+        "code": "2431",
+        "preferredLabel": "Mainonnan ja markkinoinnin erityisasiantuntijat"
+    },
+    {
+        "code": "2432",
+        "preferredLabel": "Tiedottajat"
+    },
+    {
+        "code": "2433",
+        "preferredLabel": "Myynti-insinöörit ja lääke-esittelijät (pl. tieto- ja viestintätekniikka)"
+    },
+    {
+        "code": "2434",
+        "preferredLabel": "Tieto- ja viestintätekniikan myynnin erityisasiantuntijat"
+    },
+    {
+        "code": "25",
+        "preferredLabel": "Tieto- ja viestintäteknologian erityisasiantuntijat"
+    },
+    {
+        "code": "251",
+        "preferredLabel": "Systeemityön erityisasiantuntijat"
+    },
+    {
+        "code": "2511",
+        "preferredLabel": "Sovellusarkkitehdit"
+    },
+    {
+        "code": "2512",
+        "preferredLabel": "Sovellussuunnittelijat"
+    },
+    {
+        "code": "2513",
+        "preferredLabel": "Web- ja multimediakehittäjät"
+    },
+    {
+        "code": "2514",
+        "preferredLabel": "Sovellusohjelmoijat"
+    },
+    {
+        "code": "2519",
+        "preferredLabel": "Muut ohjelmisto- ja sovelluskehittäjät"
+    },
+    {
+        "code": "252",
+        "preferredLabel": "Tietokantojen, -verkkojen ja järjestelmäohjelmistojen erityisasiantuntijat"
+    },
+    {
+        "code": "2521",
+        "preferredLabel": "Tietokantasuunnittelijat ja -vastaavat"
+    },
+    {
+        "code": "2522",
+        "preferredLabel": "Tietojärjestelmien ylläpitäjät"
+    },
+    {
+        "code": "2523",
+        "preferredLabel": "Tietoverkkojen erityisasiantuntijat"
+    },
+    {
+        "code": "2529",
+        "preferredLabel": "Muut tietokanta- ja tietoverkkojen erityisasiantuntijat"
+    },
+    {
+        "code": "26",
+        "preferredLabel": "Lainopilliset, sosiaalialan ja kulttuurialan erityisasiantuntijat"
+    },
+    {
+        "code": "261",
+        "preferredLabel": "Lainopilliset erityisasiantuntijat"
+    },
+    {
+        "code": "2611",
+        "preferredLabel": "Asianajajat"
+    },
+    {
+        "code": "2612",
+        "preferredLabel": "Tuomioistuinlakimiehet"
+    },
+    {
+        "code": "2619",
+        "preferredLabel": "Muut lainopilliset erityisasiantuntijat"
+    },
+    {
+        "code": "262",
+        "preferredLabel": "Kirjaston- ja arkistonhoitajat sekä museoalan erityisasiantuntijat"
+    },
+    {
+        "code": "2621",
+        "preferredLabel": "Arkistonhoitajat ja museoalan erityisasiantuntijat"
+    },
+    {
+        "code": "2622",
+        "preferredLabel": "Kirjastonhoitajat, informaatikot ym."
+    },
+    {
+        "code": "263",
+        "preferredLabel": "Yhteiskunta- ja sosiaalialan sekä uskonnollisen elämän erityisasiantuntijat"
+    },
+    {
+        "code": "2631",
+        "preferredLabel": "Ekonomistit"
+    },
+    {
+        "code": "2632",
+        "preferredLabel": "Yhteiskunta- ja kulttuuritutkijat"
+    },
+    {
+        "code": "2633",
+        "preferredLabel": "Historioitsijat, politiikan tutkijat ja filosofit"
+    },
+    {
+        "code": "2634",
+        "preferredLabel": "Psykologit"
+    },
+    {
+        "code": "2635",
+        "preferredLabel": "Sosiaalityön erityisasiantuntijat"
+    },
+    {
+        "code": "2636",
+        "preferredLabel": "Papit ym. uskonnollisen elämän erityisasiantuntijat"
+    },
+    {
+        "code": "264",
+        "preferredLabel": "Toimittajat, kirjailijat ja kielitieteilijät"
+    },
+    {
+        "code": "2641",
+        "preferredLabel": "Kirjailijat ym."
+    },
+    {
+        "code": "2642",
+        "preferredLabel": "Toimittajat"
+    },
+    {
+        "code": "2643",
+        "preferredLabel": "Kääntäjät, tulkit ja muut kielitieteilijät"
+    },
+    {
+        "code": "265",
+        "preferredLabel": "Taiteilijat"
+    },
+    {
+        "code": "2651",
+        "preferredLabel": "Kuvataiteilijat"
+    },
+    {
+        "code": "2652",
+        "preferredLabel": "Muusikot, laulajat ja säveltäjät"
+    },
+    {
+        "code": "2653",
+        "preferredLabel": "Tanssitaiteilijat ja koreografit"
+    },
+    {
+        "code": "2654",
+        "preferredLabel": "Ohjaajat ja tuottajat"
+    },
+    {
+        "code": "2655",
+        "preferredLabel": "Näyttelijät"
+    },
+    {
+        "code": "2656",
+        "preferredLabel": "Juontajat, kuuluttajat ym."
+    },
+    {
+        "code": "2659",
+        "preferredLabel": "Muut taiteilijat"
+    },
+    {
+        "code": "3",
+        "preferredLabel": "Asiantuntijat"
+    },
+    {
+        "code": "31",
+        "preferredLabel": "Luonnontieteiden ja tekniikan asiantuntijat"
+    },
+    {
+        "code": "311",
+        "preferredLabel": "Fysiikan, kemian ja teknisten alojen asiantuntijat"
+    },
+    {
+        "code": "3111",
+        "preferredLabel": "Luonnontieteen tekniset asiantuntijat"
+    },
+    {
+        "code": "3112",
+        "preferredLabel": "Rakentamisen asiantuntijat"
+    },
+    {
+        "code": "3113",
+        "preferredLabel": "Sähkötekniikan asiantuntijat"
+    },
+    {
+        "code": "3114",
+        "preferredLabel": "Elektroniikan asiantuntijat"
+    },
+    {
+        "code": "3115",
+        "preferredLabel": "Konetekniikan asiantuntijat"
+    },
+    {
+        "code": "3116",
+        "preferredLabel": "Kemian prosessitekniikan asiantuntijat"
+    },
+    {
+        "code": "3117",
+        "preferredLabel": "Kaivosteollisuuden ja metallurgian asiantuntijat"
+    },
+    {
+        "code": "3118",
+        "preferredLabel": "Tekniset piirtäjät"
+    },
+    {
+        "code": "3119",
+        "preferredLabel": "Muut fysiikan, kemian ja teknisten alojen asiantuntijat"
+    },
+    {
+        "code": "312",
+        "preferredLabel": "Työnjohtajat kaivos-, teollisuus- ja rakennustoiminnassa"
+    },
+    {
+        "code": "3121",
+        "preferredLabel": "Kaivostyönjohtajat"
+    },
+    {
+        "code": "3122",
+        "preferredLabel": "Teollisuuden työnjohtajat"
+    },
+    {
+        "code": "3123",
+        "preferredLabel": "Rakennusalantyönjohtajat"
+    },
+    {
+        "code": "313",
+        "preferredLabel": "Prosessinvalvonnan asiantuntijat"
+    },
+    {
+        "code": "3131",
+        "preferredLabel": "Voimalaitosten prosessinhoitajat"
+    },
+    {
+        "code": "3132",
+        "preferredLabel": "Jätteenpoltto- ja vedenpuhdistuslaitosten prosessinhoitajat"
+    },
+    {
+        "code": "3133",
+        "preferredLabel": "Kemianteollisuuden prosessinhoitajat"
+    },
+    {
+        "code": "3134",
+        "preferredLabel": "Öljy- ja maakaasujalostamon prosessinhoitajat"
+    },
+    {
+        "code": "3135",
+        "preferredLabel": "Metallien jalostuksen prosessinhoitajat"
+    },
+    {
+        "code": "3139",
+        "preferredLabel": "Muut prosessinvalvonnan asiantuntijat"
+    },
+    {
+        "code": "314",
+        "preferredLabel": "Biotieteiden asiantuntijat"
+    },
+    {
+        "code": "3141",
+        "preferredLabel": "Laborantit ym."
+    },
+    {
+        "code": "3142",
+        "preferredLabel": "Maa- ja kalatalousteknikot"
+    },
+    {
+        "code": "3143",
+        "preferredLabel": "Metsätalousteknikot"
+    },
+    {
+        "code": "315",
+        "preferredLabel": "Laiva-, lento- ja satamaliikenteen päälliköt ja ohjaajat"
+    },
+    {
+        "code": "3151",
+        "preferredLabel": "Laivojen konepäälliköt ja -mestarit"
+    },
+    {
+        "code": "3152",
+        "preferredLabel": "Vesiliikenteen perämiehet ja päälliköt"
+    },
+    {
+        "code": "3153",
+        "preferredLabel": "Lentokapteenit ja -perämiehet"
+    },
+    {
+        "code": "3154",
+        "preferredLabel": "Lennonjohtajat"
+    },
+    {
+        "code": "3155",
+        "preferredLabel": "Lennonvalvonnan tekniset asiantuntijat"
+    },
+    {
+        "code": "32",
+        "preferredLabel": "Terveydenhuollon asiantuntijat"
+    },
+    {
+        "code": "321",
+        "preferredLabel": "Terveydenhuollon tekniset asiantuntijat"
+    },
+    {
+        "code": "3211",
+        "preferredLabel": "Lääketieteellisen kuvantamis- ja laitetekniikan asiantuntijat"
+    },
+    {
+        "code": "3212",
+        "preferredLabel": "Bioanalyytikot (terveydenhuolto)"
+    },
+    {
+        "code": "3213",
+        "preferredLabel": "Farmaseutit"
+    },
+    {
+        "code": "3214",
+        "preferredLabel": "Hammas- ja apuvälineteknikot"
+    },
+    {
+        "code": "322",
+        "preferredLabel": "Sairaanhoitajat, kätilöt ym."
+    },
+    {
+        "code": "3221",
+        "preferredLabel": "Sairaanhoitajat ym."
+    },
+    {
+        "code": "3222",
+        "preferredLabel": "Kätilöt"
+    },
+    {
+        "code": "323",
+        "preferredLabel": "Luontais- ja vaihtoehtohoitajat"
+    },
+    {
+        "code": "3230",
+        "preferredLabel": "Luontais- ja vaihtoehtohoitajat"
+    },
+    {
+        "code": "324",
+        "preferredLabel": "Seminologit ym."
+    },
+    {
+        "code": "3240",
+        "preferredLabel": "Seminologit ym."
+    },
+    {
+        "code": "325",
+        "preferredLabel": "Muut terveydenhuollon asiantuntijat"
+    },
+    {
+        "code": "3251",
+        "preferredLabel": "Suuhygienistit"
+    },
+    {
+        "code": "3252",
+        "preferredLabel": "Potilas- ja terveystietojen käsittelijät"
+    },
+    {
+        "code": "3253",
+        "preferredLabel": "Terveysneuvojat"
+    },
+    {
+        "code": "3254",
+        "preferredLabel": "Optikot"
+    },
+    {
+        "code": "3255",
+        "preferredLabel": "Fysioterapeutit ym."
+    },
+    {
+        "code": "3256",
+        "preferredLabel": "Avustavat hoitotyöntekijät"
+    },
+    {
+        "code": "3257",
+        "preferredLabel": "Terveys- ja työsuojelutarkastajat"
+    },
+    {
+        "code": "3258",
+        "preferredLabel": "Sairaankuljetuksen ensihoitajat"
+    },
+    {
+        "code": "3259",
+        "preferredLabel": "Muut terveydenhuollon asiantuntijat"
+    },
+    {
+        "code": "33",
+        "preferredLabel": "Liike-elämän ja hallinnon asiantuntijat"
+    },
+    {
+        "code": "331",
+        "preferredLabel": "Rahoitus-, vakuutus- ja laskentatoimen asiantuntijat"
+    },
+    {
+        "code": "3311",
+        "preferredLabel": "Arvopaperi- ja valuuttakauppiaat"
+    },
+    {
+        "code": "3312",
+        "preferredLabel": "Luotto- ja laina-asiantuntijat"
+    },
+    {
+        "code": "3313",
+        "preferredLabel": "Kirjanpidon ja laskentatoimen asiantuntijat"
+    },
+    {
+        "code": "3314",
+        "preferredLabel": "Tilastointi- ja matematiikka-asiantuntijat"
+    },
+    {
+        "code": "3315",
+        "preferredLabel": "Arvioitsijat ja vahinkotarkastajat"
+    },
+    {
+        "code": "332",
+        "preferredLabel": "Myynti- ja ostoagentit"
+    },
+    {
+        "code": "3321",
+        "preferredLabel": "Vakuutusalan palvelumyyjät"
+    },
+    {
+        "code": "3322",
+        "preferredLabel": "Myyntiedustajat"
+    },
+    {
+        "code": "3323",
+        "preferredLabel": "Sisäänostajat"
+    },
+    {
+        "code": "3324",
+        "preferredLabel": "Kaupanvälittäjät"
+    },
+    {
+        "code": "333",
+        "preferredLabel": "Yrityspalveluiden välittäjät"
+    },
+    {
+        "code": "3331",
+        "preferredLabel": "Huolitsijat, tulli- ja laivanselvittäjät"
+    },
+    {
+        "code": "3332",
+        "preferredLabel": "Konferenssi- ja tapahtumajärjestäjät"
+    },
+    {
+        "code": "3333",
+        "preferredLabel": "Työnvälittäjät"
+    },
+    {
+        "code": "3334",
+        "preferredLabel": "Kiinteistönvälittäjät ja isännöitsijät"
+    },
+    {
+        "code": "3339",
+        "preferredLabel": "Muut liike-elämän asiantuntijat"
+    },
+    {
+        "code": "334",
+        "preferredLabel": "Hallinnolliset ja erikoistuneet sihteerit"
+    },
+    {
+        "code": "3341",
+        "preferredLabel": "Toimistotyön esimiehet"
+    },
+    {
+        "code": "3342",
+        "preferredLabel": "Asianajosihteerit"
+    },
+    {
+        "code": "3343",
+        "preferredLabel": "Johdon sihteerit ja osastosihteerit"
+    },
+    {
+        "code": "3344",
+        "preferredLabel": "Toimistosihteerit (terveydenhuolto)"
+    },
+    {
+        "code": "335",
+        "preferredLabel": "Julkishallinnon valmistelu- ja valvontavirkamiehet"
+    },
+    {
+        "code": "3351",
+        "preferredLabel": "Tulli- ja rajavirkamiehet"
+    },
+    {
+        "code": "3352",
+        "preferredLabel": "Verovalmistelijat ja -tarkastajat"
+    },
+    {
+        "code": "3353",
+        "preferredLabel": "Sosiaaliturvaetuuksien käsittelijät"
+    },
+    {
+        "code": "3354",
+        "preferredLabel": "Lupavirkamiehet"
+    },
+    {
+        "code": "3355",
+        "preferredLabel": "Komisariot ja ylikonstaapelit"
+    },
+    {
+        "code": "3359",
+        "preferredLabel": "Muut julkishallinnon valmistelu- ja valvontavirkamiehet"
+    },
+    {
+        "code": "34",
+        "preferredLabel": "Lainopilliset avustajat sekä sosiaali- ja kulttuurialan asiantuntijat"
+    },
+    {
+        "code": "341",
+        "preferredLabel": "Lainopilliset asiantuntijat sekä sosiaalialan ja seurakunnan työntekijät"
+    },
+    {
+        "code": "3411",
+        "preferredLabel": "Lainopilliset avustajat ja järjestöalan asiantuntijat"
+    },
+    {
+        "code": "3412",
+        "preferredLabel": "Sosiaalialan ohjaajat ja neuvojat ym."
+    },
+    {
+        "code": "3413",
+        "preferredLabel": "Seurakuntatyöntekijät"
+    },
+    {
+        "code": "342",
+        "preferredLabel": "Urheilijat, urheiluvalmentajat, liikunnanohjaajat ym."
+    },
+    {
+        "code": "3421",
+        "preferredLabel": "Urheilijat"
+    },
+    {
+        "code": "3422",
+        "preferredLabel": "Urheiluvalmentajat ja toimitsijat"
+    },
+    {
+        "code": "3423",
+        "preferredLabel": "Liikunnan ja vapaa-ajan ohjaajat"
+    },
+    {
+        "code": "343",
+        "preferredLabel": "Taide- ja kulttuurialan asiantuntijat sekä keittiöpäälliköt"
+    },
+    {
+        "code": "3431",
+        "preferredLabel": "Valokuvaajat"
+    },
+    {
+        "code": "3432",
+        "preferredLabel": "Sisustussuunnittelijat ym."
+    },
+    {
+        "code": "3433",
+        "preferredLabel": "Gallerioiden, museoiden ja kirjastojen tekniset työntekijät"
+    },
+    {
+        "code": "3434",
+        "preferredLabel": "Keittiöpäälliköt"
+    },
+    {
+        "code": "3435",
+        "preferredLabel": "Muut taide- ja kulttuurialan asiantuntijat"
+    },
+    {
+        "code": "35",
+        "preferredLabel": "Informaatio- ja tietoliikenneteknologian asiantuntijat"
+    },
+    {
+        "code": "351",
+        "preferredLabel": "Informaatio- ja tietoliikenneteknologian teknikot sekä käyttäjätukihenkilöt"
+    },
+    {
+        "code": "3511",
+        "preferredLabel": "Käytön operaattorit"
+    },
+    {
+        "code": "3512",
+        "preferredLabel": "Käytön tukihenkilöt"
+    },
+    {
+        "code": "3513",
+        "preferredLabel": "Tietoverkkoteknikot"
+    },
+    {
+        "code": "3514",
+        "preferredLabel": "Web-masterit ja -teknikot"
+    },
+    {
+        "code": "352",
+        "preferredLabel": "Teleliikenne- sekä radio- ja tv-teknikot"
+    },
+    {
+        "code": "3521",
+        "preferredLabel": "Lähetys- ja audiovisuaaliteknikot"
+    },
+    {
+        "code": "3522",
+        "preferredLabel": "Televiestinnän tekniset asiantuntijat"
+    },
+    {
+        "code": "4",
+        "preferredLabel": "Toimisto- ja asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "41",
+        "preferredLabel": "Toimistotyöntekijät"
+    },
+    {
+        "code": "411",
+        "preferredLabel": "Toimistoavustajat"
+    },
+    {
+        "code": "4110",
+        "preferredLabel": "Toimistoavustajat"
+    },
+    {
+        "code": "412",
+        "preferredLabel": "Yleissihteerit"
+    },
+    {
+        "code": "4120",
+        "preferredLabel": "Yleissihteerit"
+    },
+    {
+        "code": "413",
+        "preferredLabel": "Tekstinkäsittelijät ja tallentajat"
+    },
+    {
+        "code": "4131",
+        "preferredLabel": "Tekstinkäsittelijät"
+    },
+    {
+        "code": "4132",
+        "preferredLabel": "Tallentajat"
+    },
+    {
+        "code": "42",
+        "preferredLabel": "Asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "421",
+        "preferredLabel": "Rahaliikenteen asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "4211",
+        "preferredLabel": "Pankki- ym. toimihenkilöt"
+    },
+    {
+        "code": "4212",
+        "preferredLabel": "Vedonvälittäjät, bingo- ja kasinopelin hoitajat ym."
+    },
+    {
+        "code": "4213",
+        "preferredLabel": "Panttilainaajat"
+    },
+    {
+        "code": "4214",
+        "preferredLabel": "Maksujenperijät"
+    },
+    {
+        "code": "422",
+        "preferredLabel": "Muut asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "4221",
+        "preferredLabel": "Matkatoimistovirkailijat"
+    },
+    {
+        "code": "4222",
+        "preferredLabel": "Puhelinpalveluneuvojat"
+    },
+    {
+        "code": "4223",
+        "preferredLabel": "Puhelinvaihteenhoitajat"
+    },
+    {
+        "code": "4224",
+        "preferredLabel": "Hotellin vastaanottovirkailijat"
+    },
+    {
+        "code": "4225",
+        "preferredLabel": "Informaatiopisteen asiakasneuvojat"
+    },
+    {
+        "code": "4226",
+        "preferredLabel": "Vastaanoton ja neuvonnan hoitajat"
+    },
+    {
+        "code": "4227",
+        "preferredLabel": "Tutkimus- ja markkinatutkimushaastattelijat"
+    },
+    {
+        "code": "4229",
+        "preferredLabel": "Muualla luokittelemattomat asiakaspalvelutyötekijät"
+    },
+    {
+        "code": "43",
+        "preferredLabel": "Laskennan ja varastoinnin toimistotyöntekijät"
+    },
+    {
+        "code": "431",
+        "preferredLabel": "Palkanlaskijat, vakuutuskäsittelijät ym."
+    },
+    {
+        "code": "4311",
+        "preferredLabel": "Taloushallinnon toimistotyöntekijät"
+    },
+    {
+        "code": "4312",
+        "preferredLabel": "Tilasto-, rahoitus- ja vakuutusalan toimistotyöntekijät"
+    },
+    {
+        "code": "4313",
+        "preferredLabel": "Palkanlaskijat"
+    },
+    {
+        "code": "432",
+        "preferredLabel": "Kuljetuksen ja varastoinnin toimistotyöntekijät"
+    },
+    {
+        "code": "4321",
+        "preferredLabel": "Varastonhoitajat ym."
+    },
+    {
+        "code": "4322",
+        "preferredLabel": "Tuotannon valmistelijat"
+    },
+    {
+        "code": "4323",
+        "preferredLabel": "Kuljetuksen toimistotyöntekijät"
+    },
+    {
+        "code": "44",
+        "preferredLabel": "Muut toimisto- ja asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "441",
+        "preferredLabel": "Muut toimisto- ja asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "4411",
+        "preferredLabel": "Kirjastotyöntekijät"
+    },
+    {
+        "code": "4412",
+        "preferredLabel": "Postinkantajat ja -lajittelijat"
+    },
+    {
+        "code": "4413",
+        "preferredLabel": "Koodaajat, oikolukijat ym."
+    },
+    {
+        "code": "4414",
+        "preferredLabel": "Kirjurit ym."
+    },
+    {
+        "code": "4415",
+        "preferredLabel": "Arkistotyöntekijät"
+    },
+    {
+        "code": "4416",
+        "preferredLabel": "Henkilöstöhallinnon avustavat toimistotyöntekijät"
+    },
+    {
+        "code": "4419",
+        "preferredLabel": "Muut muualla luokittelemattomat toimistotyöntekijät"
+    },
+    {
+        "code": "5",
+        "preferredLabel": "Palvelu- ja myyntityöntekijät"
+    },
+    {
+        "code": "51",
+        "preferredLabel": "Palvelutyöntekijät"
+    },
+    {
+        "code": "511",
+        "preferredLabel": "Matkustuspalvelutyöntekijät, konduktöörit ja oppaat"
+    },
+    {
+        "code": "5111",
+        "preferredLabel": "Lentoemännät, purserit"
+    },
+    {
+        "code": "5112",
+        "preferredLabel": "Konduktöörit, lipuntarkastajat ym."
+    },
+    {
+        "code": "5113",
+        "preferredLabel": "Matkaoppaat"
+    },
+    {
+        "code": "512",
+        "preferredLabel": "Ravintola- ja suurtaloustyöntekijät"
+    },
+    {
+        "code": "5120",
+        "preferredLabel": "Ravintola- ja suurtaloustyöntekijät"
+    },
+    {
+        "code": "513",
+        "preferredLabel": "Tarjoilutyöntekijät"
+    },
+    {
+        "code": "5131",
+        "preferredLabel": "Tarjoilijat"
+    },
+    {
+        "code": "5132",
+        "preferredLabel": "Baarimestarit"
+    },
+    {
+        "code": "514",
+        "preferredLabel": "Kampaajat, parturit, kosmetologit ym."
+    },
+    {
+        "code": "5141",
+        "preferredLabel": "Kampaajat ja parturit"
+    },
+    {
+        "code": "5142",
+        "preferredLabel": "Kosmetologit ym."
+    },
+    {
+        "code": "515",
+        "preferredLabel": "Kiinteistöhuollon ja siivoustyön esimiehet"
+    },
+    {
+        "code": "5151",
+        "preferredLabel": "Siivoustyön esimiehet toimistoissa, hotelleissa ja muissa laitoksissa"
+    },
+    {
+        "code": "5152",
+        "preferredLabel": "Yksityiskotien taloudenhoitajat"
+    },
+    {
+        "code": "5153",
+        "preferredLabel": "Kiinteistöhuollon työntekijät"
+    },
+    {
+        "code": "516",
+        "preferredLabel": "Muut henkilökohtaisen palvelun työntekijät"
+    },
+    {
+        "code": "5161",
+        "preferredLabel": "Astrologit, ennustajat ym."
+    },
+    {
+        "code": "5162",
+        "preferredLabel": "Henkilökohtaiset palvelijat"
+    },
+    {
+        "code": "5163",
+        "preferredLabel": "Hautauspalvelutyöntekijät"
+    },
+    {
+        "code": "5164",
+        "preferredLabel": "Eläintenhoitajat ja lemmikkieläinten trimmaajat"
+    },
+    {
+        "code": "5165",
+        "preferredLabel": "Ajo-opettajat"
+    },
+    {
+        "code": "5169",
+        "preferredLabel": "Muualla luokittelemattomat henkilökohtaisen palvelun työntekijät"
+    },
+    {
+        "code": "52",
+        "preferredLabel": "Myyjät, kauppiaat ym."
+    },
+    {
+        "code": "521",
+        "preferredLabel": "Katu- ja torikauppiaat"
+    },
+    {
+        "code": "5211",
+        "preferredLabel": "Kioski- ja torimyyjät"
+    },
+    {
+        "code": "5212",
+        "preferredLabel": "Katumyyjät (elintarvikkeet)"
+    },
+    {
+        "code": "522",
+        "preferredLabel": "Myyjät ja kauppiaat"
+    },
+    {
+        "code": "5221",
+        "preferredLabel": "Kauppiaat (pienyrittäjät)"
+    },
+    {
+        "code": "5222",
+        "preferredLabel": "Myymäläesimiehet"
+    },
+    {
+        "code": "5223",
+        "preferredLabel": "Myyjät"
+    },
+    {
+        "code": "523",
+        "preferredLabel": "Kassanhoitajat ja lipunmyyjät"
+    },
+    {
+        "code": "5230",
+        "preferredLabel": "Kassanhoitajat ja lipunmyyjät"
+    },
+    {
+        "code": "524",
+        "preferredLabel": "Muut myyntityöntekijät"
+    },
+    {
+        "code": "5241",
+        "preferredLabel": "Mallit"
+    },
+    {
+        "code": "5242",
+        "preferredLabel": "Tuote-esittelijät"
+    },
+    {
+        "code": "5243",
+        "preferredLabel": "Suoramyyjät"
+    },
+    {
+        "code": "5244",
+        "preferredLabel": "Puhelin- ja asiakaspalvelukeskusten myyjät"
+    },
+    {
+        "code": "5245",
+        "preferredLabel": "Huoltamotyöntekijät"
+    },
+    {
+        "code": "5246",
+        "preferredLabel": "Kahvila- ja baarimyyjät"
+    },
+    {
+        "code": "5249",
+        "preferredLabel": "Muut muualla luokittelemattomat myyntityöntekijät"
+    },
+    {
+        "code": "53",
+        "preferredLabel": "Hoivapalvelun ja terveydenhuollon työntekijät"
+    },
+    {
+        "code": "531",
+        "preferredLabel": "Lastenhoitotyöntekijät ja koulunkäyntiavustajat"
+    },
+    {
+        "code": "5311",
+        "preferredLabel": "Lastenhoitotyöntekijät"
+    },
+    {
+        "code": "5312",
+        "preferredLabel": "Koulunkäyntiavustajat"
+    },
+    {
+        "code": "532",
+        "preferredLabel": "Lähihoitajat, muut terveydenhuollon työntekijät ja kodinhoitajat"
+    },
+    {
+        "code": "5321",
+        "preferredLabel": "Lähihoitajat"
+    },
+    {
+        "code": "5322",
+        "preferredLabel": "Kodinhoitajat (kotipalvelutoiminta)"
+    },
+    {
+        "code": "5329",
+        "preferredLabel": "Muut terveydenhuoltoalan työntekijät"
+    },
+    {
+        "code": "54",
+        "preferredLabel": "Suojelu- ja vartiointityöntekijät"
+    },
+    {
+        "code": "541",
+        "preferredLabel": "Suojelu- ja vartiointityöntekijät"
+    },
+    {
+        "code": "5411",
+        "preferredLabel": "Palomiehet"
+    },
+    {
+        "code": "5412",
+        "preferredLabel": "Poliisit"
+    },
+    {
+        "code": "5413",
+        "preferredLabel": "Vanginvartijat"
+    },
+    {
+        "code": "5414",
+        "preferredLabel": "Vartijat"
+    },
+    {
+        "code": "5419",
+        "preferredLabel": "Muut suojelu- ja vartiointityöntekijät"
+    },
+    {
+        "code": "6",
+        "preferredLabel": "Maanviljelijät, metsätyöntekijät ym."
+    },
+    {
+        "code": "61",
+        "preferredLabel": "Maanviljelijät ja eläintenkasvattajat ym."
+    },
+    {
+        "code": "611",
+        "preferredLabel": "Pelto- ja puutarhaviljelijät"
+    },
+    {
+        "code": "6111",
+        "preferredLabel": "Pelto- ja avomaaviljelijät"
+    },
+    {
+        "code": "6112",
+        "preferredLabel": "Hedelmäpuiden ja pensaiden ym. kasvattajat"
+    },
+    {
+        "code": "6113",
+        "preferredLabel": "Puutarhurit, kasvihuoneviljelijät ja -työntekijät"
+    },
+    {
+        "code": "6114",
+        "preferredLabel": "Yhdistetyn maan- ja vihannestenviljelyn tai puutarhanhoidon ym. harjoittajat"
+    },
+    {
+        "code": "612",
+        "preferredLabel": "Eläintenkasvattajat"
+    },
+    {
+        "code": "6121",
+        "preferredLabel": "Liha- ja lypsykarjan kasvattajat sekä muiden kotieläinten kasvattajat"
+    },
+    {
+        "code": "6122",
+        "preferredLabel": "Siipikarjankasvattajat"
+    },
+    {
+        "code": "6123",
+        "preferredLabel": "Mehiläistenhoitajat ym."
+    },
+    {
+        "code": "6129",
+        "preferredLabel": "Muut eläinten kasvattajat ja hoitajat"
+    },
+    {
+        "code": "613",
+        "preferredLabel": "Yhdistetyn maanviljelyn ja eläintenkasvatuksen harjoittajat"
+    },
+    {
+        "code": "6130",
+        "preferredLabel": "Yhdistetyn maanviljelyn ja eläintenkasvatuksen harjoittajat"
+    },
+    {
+        "code": "62",
+        "preferredLabel": "Metsä- ja kalatalouden työntekijät"
+    },
+    {
+        "code": "621",
+        "preferredLabel": "Metsurit ja metsätyöntekijät"
+    },
+    {
+        "code": "6210",
+        "preferredLabel": "Metsurit ja metsätyöntekijät"
+    },
+    {
+        "code": "622",
+        "preferredLabel": "Kalanviljelijät, kalastajat ja metsästäjät"
+    },
+    {
+        "code": "6221",
+        "preferredLabel": "Kalanviljelijät ja -viljelytyöntekijät"
+    },
+    {
+        "code": "6222",
+        "preferredLabel": "Kalastajat"
+    },
+    {
+        "code": "6223",
+        "preferredLabel": "Syvänmerenkalastajat"
+    },
+    {
+        "code": "6224",
+        "preferredLabel": "Riistanhoitajat ja metsästäjät"
+    },
+    {
+        "code": "63",
+        "preferredLabel": "Kotitarveviljelijät, -kalastajat ja -metsästäjät"
+    },
+    {
+        "code": "631",
+        "preferredLabel": "Kotitarveviljelijät"
+    },
+    {
+        "code": "6310",
+        "preferredLabel": "Kotitarveviljelijät"
+    },
+    {
+        "code": "632",
+        "preferredLabel": "Kotitarvekarjankasvattajat"
+    },
+    {
+        "code": "6320",
+        "preferredLabel": "Kotitarvekarjankasvattajat"
+    },
+    {
+        "code": "633",
+        "preferredLabel": "Kotitarveviljelijät ja -karjankasvattajat"
+    },
+    {
+        "code": "6330",
+        "preferredLabel": "Kotitarveviljelijät ja -karjankasvattajat"
+    },
+    {
+        "code": "634",
+        "preferredLabel": "Kotitarvekalastajat ja -metsästäjät"
+    },
+    {
+        "code": "6340",
+        "preferredLabel": "Kotitarvekalastajat ja -metsästäjät"
+    },
+    {
+        "code": "7",
+        "preferredLabel": "Rakennus-, korjaus- ja valmistustyöntekijät"
+    },
+    {
+        "code": "71",
+        "preferredLabel": "Rakennustyöntekijät ym. (pl. sähköasentajat)"
+    },
+    {
+        "code": "711",
+        "preferredLabel": "Rakennustyöntekijät ym."
+    },
+    {
+        "code": "7111",
+        "preferredLabel": "Talonrakentajat"
+    },
+    {
+        "code": "7112",
+        "preferredLabel": "Muurarit ym."
+    },
+    {
+        "code": "7113",
+        "preferredLabel": "Kivenhakkaajat ja -leikkaajat ym."
+    },
+    {
+        "code": "7114",
+        "preferredLabel": "Betonirakentajat ja raudoittajat"
+    },
+    {
+        "code": "7115",
+        "preferredLabel": "Kirvesmiehet ja rakennuspuusepät"
+    },
+    {
+        "code": "7119",
+        "preferredLabel": "Muut rakennustyöntekijät"
+    },
+    {
+        "code": "712",
+        "preferredLabel": "Rakennusten viimeistelytyöntekijät"
+    },
+    {
+        "code": "7121",
+        "preferredLabel": "Kattoasentajat ja -korjaajat"
+    },
+    {
+        "code": "7122",
+        "preferredLabel": "Lattianpäällystystyöntekijät"
+    },
+    {
+        "code": "7123",
+        "preferredLabel": "Rappaajat"
+    },
+    {
+        "code": "7124",
+        "preferredLabel": "Eristäjät"
+    },
+    {
+        "code": "7125",
+        "preferredLabel": "Lasinasentajat"
+    },
+    {
+        "code": "7126",
+        "preferredLabel": "Putkiasentajat"
+    },
+    {
+        "code": "7127",
+        "preferredLabel": "Ilmastointi- ja jäähdytyslaiteasentajat"
+    },
+    {
+        "code": "713",
+        "preferredLabel": "Maalarit ja rakennuspuhdistajat"
+    },
+    {
+        "code": "7131",
+        "preferredLabel": "Rakennusmaalarit ym."
+    },
+    {
+        "code": "7132",
+        "preferredLabel": "Ruiskumaalaajat ja -lakkaajat"
+    },
+    {
+        "code": "7133",
+        "preferredLabel": "Rakennuspuhdistajat ja nuohoojat"
+    },
+    {
+        "code": "72",
+        "preferredLabel": "Konepaja- ja valimotyöntekijät sekä asentajat ja korjaajat"
+    },
+    {
+        "code": "721",
+        "preferredLabel": "Valimotyöntekijät, hitsaajat, levysepät ym."
+    },
+    {
+        "code": "7211",
+        "preferredLabel": "Muotin- ja keernantekijät"
+    },
+    {
+        "code": "7212",
+        "preferredLabel": "Hitsaajat ja kaasuleikkaajat"
+    },
+    {
+        "code": "7213",
+        "preferredLabel": "Ohutlevysepät"
+    },
+    {
+        "code": "7214",
+        "preferredLabel": "Paksulevysepät ja rautarakennetyöntekijät"
+    },
+    {
+        "code": "7215",
+        "preferredLabel": "Kaapelin- ja köysienasentajat"
+    },
+    {
+        "code": "722",
+        "preferredLabel": "Sepät, työkaluntekijät ja koneenasettajat"
+    },
+    {
+        "code": "7221",
+        "preferredLabel": "Sepät"
+    },
+    {
+        "code": "7222",
+        "preferredLabel": "Työkaluntekijät ja lukkosepät"
+    },
+    {
+        "code": "7223",
+        "preferredLabel": "Koneenasettajat ja koneistajat"
+    },
+    {
+        "code": "7224",
+        "preferredLabel": "Konehiojat, kiillottajat ja teroittajat"
+    },
+    {
+        "code": "723",
+        "preferredLabel": "Koneasentajat ja -korjaajat"
+    },
+    {
+        "code": "7231",
+        "preferredLabel": "Moottoriajoneuvojen asentajat ja korjaajat"
+    },
+    {
+        "code": "7232",
+        "preferredLabel": "Lentokoneasentajat ja -korjaajat"
+    },
+    {
+        "code": "7233",
+        "preferredLabel": "Maatalous- ja teollisuuskoneasentajat ja -korjaajat"
+    },
+    {
+        "code": "7234",
+        "preferredLabel": "Polkupyöränkorjaajat ym."
+    },
+    {
+        "code": "73",
+        "preferredLabel": "Käsityötuotteiden valmistajat, hienomekaanikot sekä painoalan työntekijät"
+    },
+    {
+        "code": "731",
+        "preferredLabel": "Käsityötuotteiden valmistajat ja hienomekaanikot"
+    },
+    {
+        "code": "7311",
+        "preferredLabel": "Kellosepät ja muut hienomekaanisten instrumenttien tekijät ja korjaajat"
+    },
+    {
+        "code": "7312",
+        "preferredLabel": "Soittimien tekijät ja virittäjät"
+    },
+    {
+        "code": "7313",
+        "preferredLabel": "Koru-, kulta- ja hopeasepät"
+    },
+    {
+        "code": "7314",
+        "preferredLabel": "Saven- ja tiilenvalajat ja dreijaajat"
+    },
+    {
+        "code": "7315",
+        "preferredLabel": "Lasinpuhaltajat, -leikkaajat, -hiojat ja -viimeistelijät"
+    },
+    {
+        "code": "7316",
+        "preferredLabel": "Kaivertajat, etsaajat ja koristemaalarit"
+    },
+    {
+        "code": "7317",
+        "preferredLabel": "Puu-, kori- yms. käsityötuotteiden tekijät"
+    },
+    {
+        "code": "7318",
+        "preferredLabel": "Tekstiili-, nahka- yms. käsityötuotteiden tekijät"
+    },
+    {
+        "code": "7319",
+        "preferredLabel": "Muut käsityöntekijät"
+    },
+    {
+        "code": "732",
+        "preferredLabel": "Painoalan työntekijät"
+    },
+    {
+        "code": "7321",
+        "preferredLabel": "Painopinnanvalmistajat"
+    },
+    {
+        "code": "7322",
+        "preferredLabel": "Painajat"
+    },
+    {
+        "code": "7323",
+        "preferredLabel": "Jälkikäsittelijät ja sitomotyöntekijät"
+    },
+    {
+        "code": "74",
+        "preferredLabel": "Sähkö- ja elektroniikka-alan työntekijät"
+    },
+    {
+        "code": "741",
+        "preferredLabel": "Sähkölaitteiden asentajat ja korjaajat"
+    },
+    {
+        "code": "7411",
+        "preferredLabel": "Rakennussähköasentajat"
+    },
+    {
+        "code": "7412",
+        "preferredLabel": "Muut sähköasentajat"
+    },
+    {
+        "code": "7413",
+        "preferredLabel": "Linja-asentajat ja -korjaajat"
+    },
+    {
+        "code": "742",
+        "preferredLabel": "Elektroniikka- ja tietoliikenneasentajat ja -korjaajat"
+    },
+    {
+        "code": "7421",
+        "preferredLabel": "Elektroniikka- ja automaatiolaitteiden asentajat ja korjaajat"
+    },
+    {
+        "code": "7422",
+        "preferredLabel": "Tieto- ja viestintäteknologian asentajat ja korjaajat"
+    },
+    {
+        "code": "75",
+        "preferredLabel": "Elintarvike-, puutyö-, vaatetus- ja jalkinealan valmistustyöntekijät ym."
+    },
+    {
+        "code": "751",
+        "preferredLabel": "Lihanleikkaajat, leipurit, meijeristit ym."
+    },
+    {
+        "code": "7511",
+        "preferredLabel": "Lihanleikkaajat, kalankäsittelijät ym."
+    },
+    {
+        "code": "7512",
+        "preferredLabel": "Leipurit ja kondiittorit"
+    },
+    {
+        "code": "7513",
+        "preferredLabel": "Meijeristit, juustomestarit ym."
+    },
+    {
+        "code": "7514",
+        "preferredLabel": "Hedelmä- ja vihannestuotteiden valmistajat"
+    },
+    {
+        "code": "7515",
+        "preferredLabel": "Ruokien ja juomien laaduntarkkailijat"
+    },
+    {
+        "code": "7516",
+        "preferredLabel": "Tupakkatuotteiden valmistajat"
+    },
+    {
+        "code": "752",
+        "preferredLabel": "Puutavaran käsittelijät, puusepät ym."
+    },
+    {
+        "code": "7521",
+        "preferredLabel": "Raakapuun käsittelijät"
+    },
+    {
+        "code": "7522",
+        "preferredLabel": "Huonekalupuusepät ym."
+    },
+    {
+        "code": "7523",
+        "preferredLabel": "Konepuusepät"
+    },
+    {
+        "code": "753",
+        "preferredLabel": "Vaatetusalan työntekijät"
+    },
+    {
+        "code": "7531",
+        "preferredLabel": "Vaatturit, pukuompelijat, turkkurit ja hatuntekijät"
+    },
+    {
+        "code": "7532",
+        "preferredLabel": "Leikkaajat ja mallimestarit"
+    },
+    {
+        "code": "7533",
+        "preferredLabel": "Koru- ja muut tekstiiliompelijat"
+    },
+    {
+        "code": "7534",
+        "preferredLabel": "Verhoilijat"
+    },
+    {
+        "code": "7535",
+        "preferredLabel": "Turkisten muokkaajat ja nahkurit"
+    },
+    {
+        "code": "7536",
+        "preferredLabel": "Suutarit ym."
+    },
+    {
+        "code": "754",
+        "preferredLabel": "Muut pääluokkaan 7 luokiteltavat työntekijät"
+    },
+    {
+        "code": "7541",
+        "preferredLabel": "Vedenalaistyöntekijät"
+    },
+    {
+        "code": "7542",
+        "preferredLabel": "Panostajat ja räjäyttäjät"
+    },
+    {
+        "code": "7543",
+        "preferredLabel": "Luokittelijat ja laaduntarkkailijat (pl. ruoat ja juomat)"
+    },
+    {
+        "code": "7544",
+        "preferredLabel": "Savupuhdistajat, tuholais- ja rikkakasvintorjujat"
+    },
+    {
+        "code": "7549",
+        "preferredLabel": "Muut muualla luokittelemattomat"
+    },
+    {
+        "code": "8",
+        "preferredLabel": "Prosessi- ja kuljetustyöntekijät"
+    },
+    {
+        "code": "81",
+        "preferredLabel": "Prosessityöntekijät"
+    },
+    {
+        "code": "811",
+        "preferredLabel": "Kaivos- ja louhintatyön koneenkäyttäjät"
+    },
+    {
+        "code": "8111",
+        "preferredLabel": "Kaivos- ja louhostyöntekijät"
+    },
+    {
+        "code": "8112",
+        "preferredLabel": "Rikastustyöntekijät"
+    },
+    {
+        "code": "8113",
+        "preferredLabel": "Iskuporaajat ja syväkairaajat"
+    },
+    {
+        "code": "8114",
+        "preferredLabel": "Betonituote- ym. teollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "812",
+        "preferredLabel": "Metalliteollisuuden prosessityöntekijät ja viimeistelijät"
+    },
+    {
+        "code": "8121",
+        "preferredLabel": "Metalliteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8122",
+        "preferredLabel": "Metallien teolliset päällystäjät ja viimeistelijät"
+    },
+    {
+        "code": "813",
+        "preferredLabel": "Kemianteollisuuden ja valokuvatuotteiden valmistuksen prosessityöntekijät"
+    },
+    {
+        "code": "8131",
+        "preferredLabel": "Kemianteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8132",
+        "preferredLabel": "Valokuvatuotteiden valmistuksen prosessityöntekijät"
+    },
+    {
+        "code": "814",
+        "preferredLabel": "Kumi-, muovi- ja paperituotteiden valmistuksen prosessityöntekijät"
+    },
+    {
+        "code": "8141",
+        "preferredLabel": "Kumituoteteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8142",
+        "preferredLabel": "Muovituoteteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8143",
+        "preferredLabel": "Paperituoteteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "815",
+        "preferredLabel": "Tekstiili-, turkis- ja nahkatuoteteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8151",
+        "preferredLabel": "Kuitujenkäsittely-, kehruu- ja puolauskoneiden hoitajat"
+    },
+    {
+        "code": "8152",
+        "preferredLabel": "Kutoma- ja neulekoneiden hoitajat"
+    },
+    {
+        "code": "8153",
+        "preferredLabel": "Teollisuusompelijat"
+    },
+    {
+        "code": "8154",
+        "preferredLabel": "Valkaisu-, värjäys- ja puhdistuskoneiden hoitajat"
+    },
+    {
+        "code": "8155",
+        "preferredLabel": "Turkisten ja nahkojen teolliset käsittelijät, värjääjät ym."
+    },
+    {
+        "code": "8156",
+        "preferredLabel": "Jalkine- ja laukkuteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8157",
+        "preferredLabel": "Pesulatyöntekijät"
+    },
+    {
+        "code": "8159",
+        "preferredLabel": "Muut tekstiili-, turkis- ja nahkatuoteteollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "816",
+        "preferredLabel": "Elintarviketeollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "8160",
+        "preferredLabel": "Elintarviketeollisuuden prosessityöntekijät"
+    },
+    {
+        "code": "817",
+        "preferredLabel": "Sahatavaran sekä paperin ja kartongin valmistuksen prosessityöntekijät"
+    },
+    {
+        "code": "8171",
+        "preferredLabel": "Paperimassan sekä paperin ja kartongin valmistuksen prosessityöntekijät"
+    },
+    {
+        "code": "8172",
+        "preferredLabel": "Puu- ja sahatavaran prosessityöntekijät"
+    },
+    {
+        "code": "818",
+        "preferredLabel": "Muut prosessityöntekijät"
+    },
+    {
+        "code": "8181",
+        "preferredLabel": "Lasi- ja keramiikkateollisuuden uunienhoitajat"
+    },
+    {
+        "code": "8182",
+        "preferredLabel": "Höyrykoneiden ja lämmityskattiloiden hoitajat, lämmittäjät ym."
+    },
+    {
+        "code": "8183",
+        "preferredLabel": "Pakkaus-, pullotus- ja etiketöintikoneiden hoitajat"
+    },
+    {
+        "code": "8189",
+        "preferredLabel": "Muut prosessityöntekijät"
+    },
+    {
+        "code": "82",
+        "preferredLabel": "Teollisuustuotteiden kokoonpanijat"
+    },
+    {
+        "code": "821",
+        "preferredLabel": "Teollisuustuotteiden kokoonpanijat"
+    },
+    {
+        "code": "8211",
+        "preferredLabel": "Konepaja- ja metallituotteiden kokoonpanijat"
+    },
+    {
+        "code": "8212",
+        "preferredLabel": "Sähkö- ja elektroniikkalaitteiden kokoonpanijat"
+    },
+    {
+        "code": "8219",
+        "preferredLabel": "Muut teollisuustuotteiden kokoonpanijat"
+    },
+    {
+        "code": "83",
+        "preferredLabel": "Kuljetustyöntekijät"
+    },
+    {
+        "code": "831",
+        "preferredLabel": "Raideliikenteen kuljettajat ja työntekijät"
+    },
+    {
+        "code": "8311",
+        "preferredLabel": "Veturinkuljettajat"
+    },
+    {
+        "code": "8312",
+        "preferredLabel": "Jarru-, turvalaite- ja vaihdetyöntekijät"
+    },
+    {
+        "code": "832",
+        "preferredLabel": "Henkilö-, pakettiauton- ja moottoripyöräkuljettajat"
+    },
+    {
+        "code": "8321",
+        "preferredLabel": "Moottoripyörälähetit ym."
+    },
+    {
+        "code": "8322",
+        "preferredLabel": "Henkilö-, taksi- ja pakettiautonkuljettajat"
+    },
+    {
+        "code": "833",
+        "preferredLabel": "Raskaiden moottoriajoneuvojen kuljettajat"
+    },
+    {
+        "code": "8331",
+        "preferredLabel": "Linja-auton- ja raitiovaununkuljettajat"
+    },
+    {
+        "code": "8332",
+        "preferredLabel": "Kuorma-auton ja erikoisajoneuvojen kuljettajat"
+    },
+    {
+        "code": "834",
+        "preferredLabel": "Työkoneiden kuljettajat"
+    },
+    {
+        "code": "8341",
+        "preferredLabel": "Maa- ja metsätaloustyökoneiden kuljettajat"
+    },
+    {
+        "code": "8342",
+        "preferredLabel": "Maansiirtokoneiden ym. kuljettajat"
+    },
+    {
+        "code": "8343",
+        "preferredLabel": "Nosturinkuljettajat"
+    },
+    {
+        "code": "8344",
+        "preferredLabel": "Ahtaajat ja trukinkuljettajat ym."
+    },
+    {
+        "code": "835",
+        "preferredLabel": "Kansimiehistö ym. vesiliikenteen työntekijät"
+    },
+    {
+        "code": "8350",
+        "preferredLabel": "Kansimiehistö ym. vesiliikenteen työntekijät"
+    },
+    {
+        "code": "9",
+        "preferredLabel": "Muut työntekijät"
+    },
+    {
+        "code": "91",
+        "preferredLabel": "Siivoojat, kotiapulaiset ja muut puhdistustyöntekijät"
+    },
+    {
+        "code": "911",
+        "preferredLabel": "Koti-, hotelli- ja toimistosiivoojat ym."
+    },
+    {
+        "code": "9111",
+        "preferredLabel": "Kotiapulaiset ja -siivoojat"
+    },
+    {
+        "code": "9112",
+        "preferredLabel": "Toimisto- ja laitossiivoojat ym."
+    },
+    {
+        "code": "912",
+        "preferredLabel": "Ajoneuvojen puhdistajat, ikkunanpesijät ym."
+    },
+    {
+        "code": "9121",
+        "preferredLabel": "Puhdistajat ja prässääjät"
+    },
+    {
+        "code": "9122",
+        "preferredLabel": "Ajoneuvojen pesijät"
+    },
+    {
+        "code": "9123",
+        "preferredLabel": "Ikkunanpesijät"
+    },
+    {
+        "code": "9129",
+        "preferredLabel": "Muut puhdistustyöntekijät"
+    },
+    {
+        "code": "92",
+        "preferredLabel": "Maa-, metsä- ja kalatalouden avustavat työntekijät"
+    },
+    {
+        "code": "921",
+        "preferredLabel": "Maa-, metsä- ja kalatalouden avustavat työntekijät"
+    },
+    {
+        "code": "9211",
+        "preferredLabel": "Maanviljelyn avustavat työntekijät"
+    },
+    {
+        "code": "9212",
+        "preferredLabel": "Karjankasvatuksen avustavat työntekijät"
+    },
+    {
+        "code": "9213",
+        "preferredLabel": "Yhdistetyn maanviljelyn ja karjankasvatuksen avustavat työntekijät"
+    },
+    {
+        "code": "9214",
+        "preferredLabel": "Avustavat puutarhatyöntekijät"
+    },
+    {
+        "code": "9215",
+        "preferredLabel": "Metsätalouden avustavat työntekijät"
+    },
+    {
+        "code": "9216",
+        "preferredLabel": "Kalatalouden ja vesiviljelyn avustavat työntekijät"
+    },
+    {
+        "code": "93",
+        "preferredLabel": "Teollisuuden ja rakentamisen avustavat työntekijät"
+    },
+    {
+        "code": "931",
+        "preferredLabel": "Avustavat kaivos- ja rakennustyöntekijät"
+    },
+    {
+        "code": "9311",
+        "preferredLabel": "Kaivosten avustavat työntekijät"
+    },
+    {
+        "code": "9312",
+        "preferredLabel": "Maa- ja vesirakentamisen avustavat työntekijät"
+    },
+    {
+        "code": "9313",
+        "preferredLabel": "Rakennusalan avustavat työntekijät"
+    },
+    {
+        "code": "932",
+        "preferredLabel": "Valmistusalan avustavat työntekijät"
+    },
+    {
+        "code": "9321",
+        "preferredLabel": "Käsinpakkaajat"
+    },
+    {
+        "code": "9329",
+        "preferredLabel": "Muut valmistusalan avustavat työntekijät"
+    },
+    {
+        "code": "933",
+        "preferredLabel": "Rahdinkäsittelijät ja varastotyöntekijät ym."
+    },
+    {
+        "code": "9331",
+        "preferredLabel": "Käsivetoisten ja poljinkulkuneuvojen kuljettajat"
+    },
+    {
+        "code": "9332",
+        "preferredLabel": "Eläinvetoisten kulkuneuvojen kuljettajat"
+    },
+    {
+        "code": "9333",
+        "preferredLabel": "Rahdinkäsittelijät, varastotyöntekijät ym."
+    },
+    {
+        "code": "9334",
+        "preferredLabel": "Hyllyjen täyttäjät"
+    },
+    {
+        "code": "94",
+        "preferredLabel": "Avustavat keittiö- ja ruokatyöntekijät"
+    },
+    {
+        "code": "941",
+        "preferredLabel": "Avustavat keittiö- ja ruokatyöntekijät"
+    },
+    {
+        "code": "9411",
+        "preferredLabel": "Pikaruokatyöntekijät"
+    },
+    {
+        "code": "9412",
+        "preferredLabel": "Avustavat keittiötyöntekijät"
+    },
+    {
+        "code": "95",
+        "preferredLabel": "Katumyyjät, kengänkiillottajat ym."
+    },
+    {
+        "code": "951",
+        "preferredLabel": "Mainosten jakajat, kengänkiillottajat ym."
+    },
+    {
+        "code": "9510",
+        "preferredLabel": "Mainosten jakajat, kengänkiillottajat ym."
+    },
+    {
+        "code": "952",
+        "preferredLabel": "Katumyyjät (pl. elintarvikkeet)"
+    },
+    {
+        "code": "9520",
+        "preferredLabel": "Katumyyjät (pl. elintarvikkeet)"
+    },
+    {
+        "code": "96",
+        "preferredLabel": "Katujen puhtaanapidon ja jätehuollon työntekijät"
+    },
+    {
+        "code": "961",
+        "preferredLabel": "Jätehuoltotyöntekijät"
+    },
+    {
+        "code": "9611",
+        "preferredLabel": "Jätteiden kerääjät"
+    },
+    {
+        "code": "9612",
+        "preferredLabel": "Jätteiden lajittelijat"
+    },
+    {
+        "code": "9613",
+        "preferredLabel": "Kadunlakaisijat ym."
+    },
+    {
+        "code": "962",
+        "preferredLabel": "Sanomalehtien jakajat, lähetit ym."
+    },
+    {
+        "code": "9621",
+        "preferredLabel": "Sanomalehtien jakajat, lähetit ja kantajat"
+    },
+    {
+        "code": "9622",
+        "preferredLabel": "Satunnaistöiden tekijät"
+    },
+    {
+        "code": "9623",
+        "preferredLabel": "Mittareiden lukijat ym."
+    },
+    {
+        "code": "9624",
+        "preferredLabel": "Vedenhakijat ja polttopuun kerääjät"
+    },
+    {
+        "code": "9629",
+        "preferredLabel": "Muut muualla luokittelemattomat työntekijät"
+    }
+]

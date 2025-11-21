@@ -1,0 +1,54 @@
+[
+    {
+        "code": "0",
+        "preferredLabel": "Sotilaat"
+    },
+    {
+        "code": "1",
+        "preferredLabel": "Upseerit"
+    },
+    {
+        "code": "2",
+        "preferredLabel": "Aliupseerit"
+    },
+    {
+        "code": "3",
+        "preferredLabel": "Sotilasammattihenkilöstö"
+    },
+    {
+        "code": "1",
+        "preferredLabel": "Johtajat"
+    },
+    {
+        "code": "2",
+        "preferredLabel": "Erityisasiantuntijat"
+    },
+    {
+        "code": "3",
+        "preferredLabel": "Asiantuntijat"
+    },
+    {
+        "code": "4",
+        "preferredLabel": "Toimisto- ja asiakaspalvelutyöntekijät"
+    },
+    {
+        "code": "5",
+        "preferredLabel": "Palvelu- ja myyntityöntekijät"
+    },
+    {
+        "code": "6",
+        "preferredLabel": "Maanviljelijät, metsätyöntekijät ym."
+    },
+    {
+        "code": "7",
+        "preferredLabel": "Rakennus-, korjaus- ja valmistustyöntekijät"
+    },
+    {
+        "code": "8",
+        "preferredLabel": "Prosessi- ja kuljetustyöntekijät"
+    },
+    {
+        "code": "9",
+        "preferredLabel": "Muut työntekijät"
+    }
+]

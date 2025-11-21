@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+mcp_server/tyomarkkinatori_mcp.log
+
+# Virtual environments
+.venv

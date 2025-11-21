@@ -1,0 +1,1238 @@
+[
+    {
+        "code": "20",
+        "classificationName": "Akaa"
+    },
+    {
+        "code": "5",
+        "classificationName": "Alajärvi"
+    },
+    {
+        "code": "9",
+        "classificationName": "Alavieska"
+    },
+    {
+        "code": "10",
+        "classificationName": "Alavus"
+    },
+    {
+        "code": "16",
+        "classificationName": "Asikkala"
+    },
+    {
+        "code": "18",
+        "classificationName": "Askola"
+    },
+    {
+        "code": "19",
+        "classificationName": "Aura"
+    },
+    {
+        "code": "35",
+        "classificationName": "Brändö"
+    },
+    {
+        "code": "43",
+        "classificationName": "Eckerö"
+    },
+    {
+        "code": "46",
+        "classificationName": "Enonkoski"
+    },
+    {
+        "code": "47",
+        "classificationName": "Enontekiö"
+    },
+    {
+        "code": "49",
+        "classificationName": "Espoo"
+    },
+    {
+        "code": "50",
+        "classificationName": "Eura"
+    },
+    {
+        "code": "51",
+        "classificationName": "Eurajoki"
+    },
+    {
+        "code": "52",
+        "classificationName": "Evijärvi"
+    },
+    {
+        "code": "60",
+        "classificationName": "Finström"
+    },
+    {
+        "code": "61",
+        "classificationName": "Forssa"
+    },
+    {
+        "code": "62",
+        "classificationName": "Föglö"
+    },
+    {
+        "code": "65",
+        "classificationName": "Geta"
+    },
+    {
+        "code": "69",
+        "classificationName": "Haapajärvi"
+    },
+    {
+        "code": "71",
+        "classificationName": "Haapavesi"
+    },
+    {
+        "code": "72",
+        "classificationName": "Hailuoto"
+    },
+    {
+        "code": "74",
+        "classificationName": "Halsua"
+    },
+    {
+        "code": "75",
+        "classificationName": "Hamina"
+    },
+    {
+        "code": "76",
+        "classificationName": "Hammarland"
+    },
+    {
+        "code": "77",
+        "classificationName": "Hankasalmi"
+    },
+    {
+        "code": "78",
+        "classificationName": "Hanko"
+    },
+    {
+        "code": "79",
+        "classificationName": "Harjavalta"
+    },
+    {
+        "code": "81",
+        "classificationName": "Hartola"
+    },
+    {
+        "code": "82",
+        "classificationName": "Hattula"
+    },
+    {
+        "code": "86",
+        "classificationName": "Hausjärvi"
+    },
+    {
+        "code": "111",
+        "classificationName": "Heinola"
+    },
+    {
+        "code": "90",
+        "classificationName": "Heinävesi"
+    },
+    {
+        "code": "91",
+        "classificationName": "Helsinki"
+    },
+    {
+        "code": "97",
+        "classificationName": "Hirvensalmi"
+    },
+    {
+        "code": "98",
+        "classificationName": "Hollola"
+    },
+    {
+        "code": "102",
+        "classificationName": "Huittinen"
+    },
+    {
+        "code": "103",
+        "classificationName": "Humppila"
+    },
+    {
+        "code": "105",
+        "classificationName": "Hyrynsalmi"
+    },
+    {
+        "code": "106",
+        "classificationName": "Hyvinkää"
+    },
+    {
+        "code": "108",
+        "classificationName": "Hämeenkyrö"
+    },
+    {
+        "code": "109",
+        "classificationName": "Hämeenlinna"
+    },
+    {
+        "code": "139",
+        "classificationName": "Ii"
+    },
+    {
+        "code": "140",
+        "classificationName": "Iisalmi"
+    },
+    {
+        "code": "142",
+        "classificationName": "Iitti"
+    },
+    {
+        "code": "143",
+        "classificationName": "Ikaalinen"
+    },
+    {
+        "code": "145",
+        "classificationName": "Ilmajoki"
+    },
+    {
+        "code": "146",
+        "classificationName": "Ilomantsi"
+    },
+    {
+        "code": "153",
+        "classificationName": "Imatra"
+    },
+    {
+        "code": "148",
+        "classificationName": "Inari"
+    },
+    {
+        "code": "149",
+        "classificationName": "Inkoo"
+    },
+    {
+        "code": "151",
+        "classificationName": "Isojoki"
+    },
+    {
+        "code": "152",
+        "classificationName": "Isokyrö"
+    },
+    {
+        "code": "165",
+        "classificationName": "Janakkala"
+    },
+    {
+        "code": "167",
+        "classificationName": "Joensuu"
+    },
+    {
+        "code": "169",
+        "classificationName": "Jokioinen"
+    },
+    {
+        "code": "170",
+        "classificationName": "Jomala"
+    },
+    {
+        "code": "171",
+        "classificationName": "Joroinen"
+    },
+    {
+        "code": "172",
+        "classificationName": "Joutsa"
+    },
+    {
+        "code": "176",
+        "classificationName": "Juuka"
+    },
+    {
+        "code": "177",
+        "classificationName": "Juupajoki"
+    },
+    {
+        "code": "178",
+        "classificationName": "Juva"
+    },
+    {
+        "code": "179",
+        "classificationName": "Jyväskylä"
+    },
+    {
+        "code": "181",
+        "classificationName": "Jämijärvi"
+    },
+    {
+        "code": "182",
+        "classificationName": "Jämsä"
+    },
+    {
+        "code": "186",
+        "classificationName": "Järvenpää"
+    },
+    {
+        "code": "202",
+        "classificationName": "Kaarina"
+    },
+    {
+        "code": "204",
+        "classificationName": "Kaavi"
+    },
+    {
+        "code": "205",
+        "classificationName": "Kajaani"
+    },
+    {
+        "code": "208",
+        "classificationName": "Kalajoki"
+    },
+    {
+        "code": "211",
+        "classificationName": "Kangasala"
+    },
+    {
+        "code": "213",
+        "classificationName": "Kangasniemi"
+    },
+    {
+        "code": "214",
+        "classificationName": "Kankaanpää"
+    },
+    {
+        "code": "216",
+        "classificationName": "Kannonkoski"
+    },
+    {
+        "code": "217",
+        "classificationName": "Kannus"
+    },
+    {
+        "code": "218",
+        "classificationName": "Karijoki"
+    },
+    {
+        "code": "224",
+        "classificationName": "Karkkila"
+    },
+    {
+        "code": "226",
+        "classificationName": "Karstula"
+    },
+    {
+        "code": "230",
+        "classificationName": "Karvia"
+    },
+    {
+        "code": "231",
+        "classificationName": "Kaskinen"
+    },
+    {
+        "code": "232",
+        "classificationName": "Kauhajoki"
+    },
+    {
+        "code": "233",
+        "classificationName": "Kauhava"
+    },
+    {
+        "code": "235",
+        "classificationName": "Kauniainen"
+    },
+    {
+        "code": "236",
+        "classificationName": "Kaustinen"
+    },
+    {
+        "code": "239",
+        "classificationName": "Keitele"
+    },
+    {
+        "code": "240",
+        "classificationName": "Kemi"
+    },
+    {
+        "code": "320",
+        "classificationName": "Kemijärvi"
+    },
+    {
+        "code": "241",
+        "classificationName": "Keminmaa"
+    },
+    {
+        "code": "322",
+        "classificationName": "Kemiönsaari"
+    },
+    {
+        "code": "244",
+        "classificationName": "Kempele"
+    },
+    {
+        "code": "245",
+        "classificationName": "Kerava"
+    },
+    {
+        "code": "249",
+        "classificationName": "Keuruu"
+    },
+    {
+        "code": "250",
+        "classificationName": "Kihniö"
+    },
+    {
+        "code": "256",
+        "classificationName": "Kinnula"
+    },
+    {
+        "code": "257",
+        "classificationName": "Kirkkonummi"
+    },
+    {
+        "code": "260",
+        "classificationName": "Kitee"
+    },
+    {
+        "code": "261",
+        "classificationName": "Kittilä"
+    },
+    {
+        "code": "263",
+        "classificationName": "Kiuruvesi"
+    },
+    {
+        "code": "265",
+        "classificationName": "Kivijärvi"
+    },
+    {
+        "code": "271",
+        "classificationName": "Kokemäki"
+    },
+    {
+        "code": "272",
+        "classificationName": "Kokkola"
+    },
+    {
+        "code": "273",
+        "classificationName": "Kolari"
+    },
+    {
+        "code": "275",
+        "classificationName": "Konnevesi"
+    },
+    {
+        "code": "276",
+        "classificationName": "Kontiolahti"
+    },
+    {
+        "code": "280",
+        "classificationName": "Korsnäs"
+    },
+    {
+        "code": "284",
+        "classificationName": "Koski Tl"
+    },
+    {
+        "code": "285",
+        "classificationName": "Kotka"
+    },
+    {
+        "code": "286",
+        "classificationName": "Kouvola"
+    },
+    {
+        "code": "287",
+        "classificationName": "Kristiinankaupunki"
+    },
+    {
+        "code": "288",
+        "classificationName": "Kruunupyy"
+    },
+    {
+        "code": "290",
+        "classificationName": "Kuhmo"
+    },
+    {
+        "code": "291",
+        "classificationName": "Kuhmoinen"
+    },
+    {
+        "code": "295",
+        "classificationName": "Kumlinge"
+    },
+    {
+        "code": "297",
+        "classificationName": "Kuopio"
+    },
+    {
+        "code": "300",
+        "classificationName": "Kuortane"
+    },
+    {
+        "code": "301",
+        "classificationName": "Kurikka"
+    },
+    {
+        "code": "304",
+        "classificationName": "Kustavi"
+    },
+    {
+        "code": "305",
+        "classificationName": "Kuusamo"
+    },
+    {
+        "code": "312",
+        "classificationName": "Kyyjärvi"
+    },
+    {
+        "code": "316",
+        "classificationName": "Kärkölä"
+    },
+    {
+        "code": "317",
+        "classificationName": "Kärsämäki"
+    },
+    {
+        "code": "318",
+        "classificationName": "Kökar"
+    },
+    {
+        "code": "398",
+        "classificationName": "Lahti"
+    },
+    {
+        "code": "399",
+        "classificationName": "Laihia"
+    },
+    {
+        "code": "400",
+        "classificationName": "Laitila"
+    },
+    {
+        "code": "407",
+        "classificationName": "Lapinjärvi"
+    },
+    {
+        "code": "402",
+        "classificationName": "Lapinlahti"
+    },
+    {
+        "code": "403",
+        "classificationName": "Lappajärvi"
+    },
+    {
+        "code": "405",
+        "classificationName": "Lappeenranta"
+    },
+    {
+        "code": "408",
+        "classificationName": "Lapua"
+    },
+    {
+        "code": "410",
+        "classificationName": "Laukaa"
+    },
+    {
+        "code": "416",
+        "classificationName": "Lemi"
+    },
+    {
+        "code": "417",
+        "classificationName": "Lemland"
+    },
+    {
+        "code": "418",
+        "classificationName": "Lempäälä"
+    },
+    {
+        "code": "420",
+        "classificationName": "Leppävirta"
+    },
+    {
+        "code": "421",
+        "classificationName": "Lestijärvi"
+    },
+    {
+        "code": "422",
+        "classificationName": "Lieksa"
+    },
+    {
+        "code": "423",
+        "classificationName": "Lieto"
+    },
+    {
+        "code": "425",
+        "classificationName": "Liminka"
+    },
+    {
+        "code": "426",
+        "classificationName": "Liperi"
+    },
+    {
+        "code": "444",
+        "classificationName": "Lohja"
+    },
+    {
+        "code": "430",
+        "classificationName": "Loimaa"
+    },
+    {
+        "code": "433",
+        "classificationName": "Loppi"
+    },
+    {
+        "code": "434",
+        "classificationName": "Loviisa"
+    },
+    {
+        "code": "435",
+        "classificationName": "Luhanka"
+    },
+    {
+        "code": "436",
+        "classificationName": "Lumijoki"
+    },
+    {
+        "code": "438",
+        "classificationName": "Lumparland"
+    },
+    {
+        "code": "440",
+        "classificationName": "Luoto"
+    },
+    {
+        "code": "441",
+        "classificationName": "Luumäki"
+    },
+    {
+        "code": "475",
+        "classificationName": "Maalahti"
+    },
+    {
+        "code": "478",
+        "classificationName": "Maarianhamina - Mariehamn"
+    },
+    {
+        "code": "480",
+        "classificationName": "Marttila"
+    },
+    {
+        "code": "481",
+        "classificationName": "Masku"
+    },
+    {
+        "code": "483",
+        "classificationName": "Merijärvi"
+    },
+    {
+        "code": "484",
+        "classificationName": "Merikarvia"
+    },
+    {
+        "code": "489",
+        "classificationName": "Miehikkälä"
+    },
+    {
+        "code": "491",
+        "classificationName": "Mikkeli"
+    },
+    {
+        "code": "494",
+        "classificationName": "Muhos"
+    },
+    {
+        "code": "495",
+        "classificationName": "Multia"
+    },
+    {
+        "code": "498",
+        "classificationName": "Muonio"
+    },
+    {
+        "code": "499",
+        "classificationName": "Mustasaari"
+    },
+    {
+        "code": "500",
+        "classificationName": "Muurame"
+    },
+    {
+        "code": "503",
+        "classificationName": "Mynämäki"
+    },
+    {
+        "code": "504",
+        "classificationName": "Myrskylä"
+    },
+    {
+        "code": "505",
+        "classificationName": "Mäntsälä"
+    },
+    {
+        "code": "508",
+        "classificationName": "Mänttä-Vilppula"
+    },
+    {
+        "code": "507",
+        "classificationName": "Mäntyharju"
+    },
+    {
+        "code": "529",
+        "classificationName": "Naantali"
+    },
+    {
+        "code": "531",
+        "classificationName": "Nakkila"
+    },
+    {
+        "code": "535",
+        "classificationName": "Nivala"
+    },
+    {
+        "code": "536",
+        "classificationName": "Nokia"
+    },
+    {
+        "code": "538",
+        "classificationName": "Nousiainen"
+    },
+    {
+        "code": "541",
+        "classificationName": "Nurmes"
+    },
+    {
+        "code": "543",
+        "classificationName": "Nurmijärvi"
+    },
+    {
+        "code": "545",
+        "classificationName": "Närpiö"
+    },
+    {
+        "code": "560",
+        "classificationName": "Orimattila"
+    },
+    {
+        "code": "561",
+        "classificationName": "Oripää"
+    },
+    {
+        "code": "562",
+        "classificationName": "Orivesi"
+    },
+    {
+        "code": "563",
+        "classificationName": "Oulainen"
+    },
+    {
+        "code": "564",
+        "classificationName": "Oulu"
+    },
+    {
+        "code": "309",
+        "classificationName": "Outokumpu"
+    },
+    {
+        "code": "576",
+        "classificationName": "Padasjoki"
+    },
+    {
+        "code": "577",
+        "classificationName": "Paimio"
+    },
+    {
+        "code": "578",
+        "classificationName": "Paltamo"
+    },
+    {
+        "code": "445",
+        "classificationName": "Parainen"
+    },
+    {
+        "code": "580",
+        "classificationName": "Parikkala"
+    },
+    {
+        "code": "581",
+        "classificationName": "Parkano"
+    },
+    {
+        "code": "599",
+        "classificationName": "Pedersören kunta"
+    },
+    {
+        "code": "583",
+        "classificationName": "Pelkosenniemi"
+    },
+    {
+        "code": "854",
+        "classificationName": "Pello"
+    },
+    {
+        "code": "584",
+        "classificationName": "Perho"
+    },
+    {
+        "code": "588",
+        "classificationName": "Pertunmaa"
+    },
+    {
+        "code": "592",
+        "classificationName": "Petäjävesi"
+    },
+    {
+        "code": "593",
+        "classificationName": "Pieksämäki"
+    },
+    {
+        "code": "595",
+        "classificationName": "Pielavesi"
+    },
+    {
+        "code": "598",
+        "classificationName": "Pietarsaari"
+    },
+    {
+        "code": "601",
+        "classificationName": "Pihtipudas"
+    },
+    {
+        "code": "604",
+        "classificationName": "Pirkkala"
+    },
+    {
+        "code": "607",
+        "classificationName": "Polvijärvi"
+    },
+    {
+        "code": "608",
+        "classificationName": "Pomarkku"
+    },
+    {
+        "code": "609",
+        "classificationName": "Pori"
+    },
+    {
+        "code": "611",
+        "classificationName": "Pornainen"
+    },
+    {
+        "code": "638",
+        "classificationName": "Porvoo"
+    },
+    {
+        "code": "614",
+        "classificationName": "Posio"
+    },
+    {
+        "code": "615",
+        "classificationName": "Pudasjärvi"
+    },
+    {
+        "code": "616",
+        "classificationName": "Pukkila"
+    },
+    {
+        "code": "619",
+        "classificationName": "Punkalaidun"
+    },
+    {
+        "code": "620",
+        "classificationName": "Puolanka"
+    },
+    {
+        "code": "623",
+        "classificationName": "Puumala"
+    },
+    {
+        "code": "624",
+        "classificationName": "Pyhtää"
+    },
+    {
+        "code": "625",
+        "classificationName": "Pyhäjoki"
+    },
+    {
+        "code": "626",
+        "classificationName": "Pyhäjärvi"
+    },
+    {
+        "code": "630",
+        "classificationName": "Pyhäntä"
+    },
+    {
+        "code": "631",
+        "classificationName": "Pyhäranta"
+    },
+    {
+        "code": "635",
+        "classificationName": "Pälkäne"
+    },
+    {
+        "code": "636",
+        "classificationName": "Pöytyä"
+    },
+    {
+        "code": "678",
+        "classificationName": "Raahe"
+    },
+    {
+        "code": "710",
+        "classificationName": "Raasepori"
+    },
+    {
+        "code": "680",
+        "classificationName": "Raisio"
+    },
+    {
+        "code": "681",
+        "classificationName": "Rantasalmi"
+    },
+    {
+        "code": "683",
+        "classificationName": "Ranua"
+    },
+    {
+        "code": "684",
+        "classificationName": "Rauma"
+    },
+    {
+        "code": "686",
+        "classificationName": "Rautalampi"
+    },
+    {
+        "code": "687",
+        "classificationName": "Rautavaara"
+    },
+    {
+        "code": "689",
+        "classificationName": "Rautjärvi"
+    },
+    {
+        "code": "691",
+        "classificationName": "Reisjärvi"
+    },
+    {
+        "code": "694",
+        "classificationName": "Riihimäki"
+    },
+    {
+        "code": "697",
+        "classificationName": "Ristijärvi"
+    },
+    {
+        "code": "698",
+        "classificationName": "Rovaniemi"
+    },
+    {
+        "code": "700",
+        "classificationName": "Ruokolahti"
+    },
+    {
+        "code": "702",
+        "classificationName": "Ruovesi"
+    },
+    {
+        "code": "704",
+        "classificationName": "Rusko"
+    },
+    {
+        "code": "707",
+        "classificationName": "Rääkkylä"
+    },
+    {
+        "code": "729",
+        "classificationName": "Saarijärvi"
+    },
+    {
+        "code": "732",
+        "classificationName": "Salla"
+    },
+    {
+        "code": "734",
+        "classificationName": "Salo"
+    },
+    {
+        "code": "736",
+        "classificationName": "Saltvik"
+    },
+    {
+        "code": "790",
+        "classificationName": "Sastamala"
+    },
+    {
+        "code": "738",
+        "classificationName": "Sauvo"
+    },
+    {
+        "code": "739",
+        "classificationName": "Savitaipale"
+    },
+    {
+        "code": "740",
+        "classificationName": "Savonlinna"
+    },
+    {
+        "code": "742",
+        "classificationName": "Savukoski"
+    },
+    {
+        "code": "743",
+        "classificationName": "Seinäjoki"
+    },
+    {
+        "code": "746",
+        "classificationName": "Sievi"
+    },
+    {
+        "code": "747",
+        "classificationName": "Siikainen"
+    },
+    {
+        "code": "748",
+        "classificationName": "Siikajoki"
+    },
+    {
+        "code": "791",
+        "classificationName": "Siikalatva"
+    },
+    {
+        "code": "749",
+        "classificationName": "Siilinjärvi"
+    },
+    {
+        "code": "751",
+        "classificationName": "Simo"
+    },
+    {
+        "code": "753",
+        "classificationName": "Sipoo"
+    },
+    {
+        "code": "755",
+        "classificationName": "Siuntio"
+    },
+    {
+        "code": "758",
+        "classificationName": "Sodankylä"
+    },
+    {
+        "code": "759",
+        "classificationName": "Soini"
+    },
+    {
+        "code": "761",
+        "classificationName": "Somero"
+    },
+    {
+        "code": "762",
+        "classificationName": "Sonkajärvi"
+    },
+    {
+        "code": "765",
+        "classificationName": "Sotkamo"
+    },
+    {
+        "code": "766",
+        "classificationName": "Sottunga"
+    },
+    {
+        "code": "768",
+        "classificationName": "Sulkava"
+    },
+    {
+        "code": "771",
+        "classificationName": "Sund"
+    },
+    {
+        "code": "777",
+        "classificationName": "Suomussalmi"
+    },
+    {
+        "code": "778",
+        "classificationName": "Suonenjoki"
+    },
+    {
+        "code": "781",
+        "classificationName": "Sysmä"
+    },
+    {
+        "code": "783",
+        "classificationName": "Säkylä"
+    },
+    {
+        "code": "831",
+        "classificationName": "Taipalsaari"
+    },
+    {
+        "code": "832",
+        "classificationName": "Taivalkoski"
+    },
+    {
+        "code": "833",
+        "classificationName": "Taivassalo"
+    },
+    {
+        "code": "834",
+        "classificationName": "Tammela"
+    },
+    {
+        "code": "837",
+        "classificationName": "Tampere"
+    },
+    {
+        "code": "844",
+        "classificationName": "Tervo"
+    },
+    {
+        "code": "845",
+        "classificationName": "Tervola"
+    },
+    {
+        "code": "846",
+        "classificationName": "Teuva"
+    },
+    {
+        "code": "848",
+        "classificationName": "Tohmajärvi"
+    },
+    {
+        "code": "849",
+        "classificationName": "Toholampi"
+    },
+    {
+        "code": "850",
+        "classificationName": "Toivakka"
+    },
+    {
+        "code": "851",
+        "classificationName": "Tornio"
+    },
+    {
+        "code": "853",
+        "classificationName": "Turku"
+    },
+    {
+        "code": "857",
+        "classificationName": "Tuusniemi"
+    },
+    {
+        "code": "858",
+        "classificationName": "Tuusula"
+    },
+    {
+        "code": "859",
+        "classificationName": "Tyrnävä"
+    },
+    {
+        "code": "886",
+        "classificationName": "Ulvila"
+    },
+    {
+        "code": "887",
+        "classificationName": "Urjala"
+    },
+    {
+        "code": "889",
+        "classificationName": "Utajärvi"
+    },
+    {
+        "code": "890",
+        "classificationName": "Utsjoki"
+    },
+    {
+        "code": "892",
+        "classificationName": "Uurainen"
+    },
+    {
+        "code": "893",
+        "classificationName": "Uusikaarlepyy"
+    },
+    {
+        "code": "895",
+        "classificationName": "Uusikaupunki"
+    },
+    {
+        "code": "785",
+        "classificationName": "Vaala"
+    },
+    {
+        "code": "905",
+        "classificationName": "Vaasa"
+    },
+    {
+        "code": "908",
+        "classificationName": "Valkeakoski"
+    },
+    {
+        "code": "92",
+        "classificationName": "Vantaa"
+    },
+    {
+        "code": "915",
+        "classificationName": "Varkaus"
+    },
+    {
+        "code": "918",
+        "classificationName": "Vehmaa"
+    },
+    {
+        "code": "921",
+        "classificationName": "Vesanto"
+    },
+    {
+        "code": "922",
+        "classificationName": "Vesilahti"
+    },
+    {
+        "code": "924",
+        "classificationName": "Veteli"
+    },
+    {
+        "code": "925",
+        "classificationName": "Vieremä"
+    },
+    {
+        "code": "927",
+        "classificationName": "Vihti"
+    },
+    {
+        "code": "931",
+        "classificationName": "Viitasaari"
+    },
+    {
+        "code": "934",
+        "classificationName": "Vimpeli"
+    },
+    {
+        "code": "935",
+        "classificationName": "Virolahti"
+    },
+    {
+        "code": "936",
+        "classificationName": "Virrat"
+    },
+    {
+        "code": "941",
+        "classificationName": "Vårdö"
+    },
+    {
+        "code": "946",
+        "classificationName": "Vöyri"
+    },
+    {
+        "code": "976",
+        "classificationName": "Ylitornio"
+    },
+    {
+        "code": "977",
+        "classificationName": "Ylivieska"
+    },
+    {
+        "code": "980",
+        "classificationName": "Ylöjärvi"
+    },
+    {
+        "code": "981",
+        "classificationName": "Ypäjä"
+    },
+    {
+        "code": "989",
+        "classificationName": "Ähtäri"
+    },
+    {
+        "code": "992",
+        "classificationName": "Äänekoski"
+    }
+]
