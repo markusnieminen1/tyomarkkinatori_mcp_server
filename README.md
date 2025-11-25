@@ -47,12 +47,10 @@ Config file can be found by going to Claude Desktop -> settings -> Developer -> 
       "command": "docker",
       "args": [
           "run",
-          "--interactive",
+          "-it",
           "--rm",
           "--read-only",
           "--cap-drop=ALL",
-          "--env",
-          "-it",
           "ghcr.io/markusnieminen1/tyomarkkinatori_mcp_server/tyomarkkinatori_mcp:latest"
       ]
     }
