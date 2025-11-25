@@ -6,6 +6,8 @@ dist/
 wheels/
 *.egg-info
 mcp_server/tyomarkkinatori_mcp.log
+.DS_Store
+.pytest_cache
 
 # Virtual environments
 .venv
