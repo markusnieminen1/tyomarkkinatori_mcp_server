@@ -36,5 +36,10 @@ def test_get_location_codes_str_int_input():
 
 def test_get_location_codes_int_input():
     with patch("mcp_server.main.read_file_contents_tojson", return_value=mock_data):
-        with pytest.raises(TypeError):
-            get_location_codes(1)
+        result = get_location_codes(1)
+        assert result["isError"] == True
+        
+def test_get_location_codes_bool_input():
+    with patch("mcp_server.main.read_file_contents_tojson", return_value=mock_data):
+        result = get_location_codes(True)
+        assert result["isError"] == True
