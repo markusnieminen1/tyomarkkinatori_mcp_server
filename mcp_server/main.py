@@ -41,6 +41,21 @@ for file, keys in [
         logger.error(f"Assertion error in resource file: {file}")
         raise AssertionError
 
+def try_block_decorator(function):
+    def wrapper(*args, **kwargs):
+        try:
+            return function(*args, **kwargs)
+        except Exception as e:
+            return {
+                "isError": True,
+                "content": [{
+                    "type": "text",
+                    "text": f"Tool failed. {e}"
+                }]
+            }
+    return wrapper
+
+ 
 
 def read_file_contents_tojson(filelocation: Path) -> list:
     """
@@ -57,6 +72,7 @@ def read_file_contents_tojson(filelocation: Path) -> list:
 
 
 @mcp.tool()
+@try_block_decorator
 def get_location_codes(first_letters_of_the_city: str) -> list:
     """Get location codes for the api call. Use text to narrow down the search (and to waste less context)
     Only Finnish city names are included.
@@ -84,6 +100,7 @@ def get_location_codes(first_letters_of_the_city: str) -> list:
     
     
 @mcp.tool()
+@try_block_decorator
 def get_all_high_level_occupation_codes() -> list:
     """Returns all high level occupation codes. 
     Can be used for the API call or for getting medium level occupation codes. 
@@ -95,6 +112,7 @@ def get_all_high_level_occupation_codes() -> list:
 
 
 @mcp.tool()
+@try_block_decorator
 def get_medium_level_occupation_codes(high_level_code: int|str) -> list:
     """
     Returns medium level occupational category codes for the API call. 
@@ -131,6 +149,7 @@ def get_medium_level_occupation_codes(high_level_code: int|str) -> list:
 
 
 @mcp.tool()
+@try_block_decorator
 def get_low_level_occupation_codes(medium_level_code: int|str) -> list:
     
     """
@@ -173,6 +192,7 @@ class API_call(BaseModel):
 
 
 @mcp.tool()
+@try_block_decorator
 async def api_call(input: API_call):
     """
     Make an API call to the Työmarkkinatori API to receive job listings. 
@@ -232,7 +252,7 @@ async def api_call(input: API_call):
 
         except Exception as e:
             logger.exception(f"API call failed: {e}")
-            return None
+            raise e
 
 
 def main():
