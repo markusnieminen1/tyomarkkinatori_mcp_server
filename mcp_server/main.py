@@ -91,7 +91,7 @@ def get_all_high_level_occupation_codes() -> list:
     Returns:
         list: list that contains all high level occupation categories and the related codes. 
     """
-    return read_file_contents_tojson(OCCUPATIONS_LOW_LEVEL_FILE)
+    return read_file_contents_tojson(OCCUPATIONS_HIGH_LEVEL_FILE)
 
 
 @mcp.tool()
